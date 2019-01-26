@@ -1,5 +1,7 @@
 # hiring-tips
-Compendium of tips on how to get hired in ML / data science. Includes tools &amp; links. **Please keep this repo confidential.**
+Compendium of tips on how to get hired in ML / data science via your mentorship. Includes tools &amp; links. **Please keep this repo confidential.**
+
+In addition to what's below, you'll find lots more useful information on [our blog page](https://www.sharpestminds.com/blog).
 
 # Checklist: after you join
 
