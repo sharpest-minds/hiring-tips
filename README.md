@@ -29,7 +29,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 6. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
 
-7. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com).
+7. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
 
 # Checklist: at a networking event or job fair
 
