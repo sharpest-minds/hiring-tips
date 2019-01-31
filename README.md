@@ -68,7 +68,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 9. In other words: learn as much as you can from each no, then deliberately move on. **It doesn't matter how many nos you get.** All that matters is that one of them is a yes. And that will happen!!!
 
-# 🌍 Read this if you are **not** a US or Canadian citizen or permanent resident
+# 🌍 If you are **not** a US or Canadian citizen or permanent resident
 
 If you aren't a resident of either the USA or Canada, you might need a permit or a work visa to get a job in either country.
 
@@ -78,7 +78,7 @@ If you'd like to work in the USA eventually, you should seriously think about fi
 
 If you're trying to get a job in Canada, the visa process is a lot easier. Canada has a program called the Global Talent Stream (GTS), which is designed to bring highly skilled international talent into the country. The GTS is similar to the H1B, except that there are no quotas and you can get approved for one in 5-10 business days instead of six months. You do need to get a job that has a minimum annual salary; you can find out what that minimum is [at this website](https://www.jobbank.gc.ca/wagereport/occupation/227159).
 
-## SharpestMinds deals for international residents
+### SharpestMinds deals for international residents
 
 If you're an international resident trying to get a job in Canada, SharpestMinds can help you in two ways:
 
