@@ -68,6 +68,26 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 9. In other words: learn as much as you can from each no, then deliberately move on. **It doesn't matter how many nos you get.** All that matters is that one of them is a yes. And that will happen!!!
 
+# 🌍 Read this if you are **not** a US or Canadian citizen or permanent resident
+
+If you aren't a resident of either the USA or Canada, you might need a permit or a work visa to get a job in either country.
+
+If you want to work in the USA, you'll probably need an H1B visa. Getting one is hard, and it's gotten harder recently. It also restricts your options to only applying to companies that sponsor H1B. It doesn't cost a company that much (~$5k) but not all of them sponsor H1B because it can sometimes take up to 6 months for one to get approved.
+
+If you'd like to work in the USA eventually, you should seriously think about first working in Canada, building up a year's experience, and only then going back and applying for jobs in the USA. Not only will you be in less of a rush that way, you'll also have the leverage that comes from having 1+ years of industry experience. In fact, some employers don't sponsor visas for junior engineers, but do sponsor them for mid and senior level engineers. That means you'll have more options if you're in the latter category.
+
+If you're trying to get a job in Canada, the visa process is a lot easier. Canada has a program called the Global Talent Stream (GTS), which is designed to bring highly skilled international talent into the country. The GTS is similar to the H1B, except that there are no quotas and you can get approved for one in 5-10 business days instead of six months. You do need to get a job that has a minimum annual salary; you can find out what that minimum is [at this website](https://www.jobbank.gc.ca/wagereport/occupation/227159).
+
+## SharpestMinds deals for international residents
+
+If you're an international resident trying to get a job in Canada, SharpestMinds can help you in two ways:
+
+1. We have an deal with [MaRS](https://www.marsdd.com), a local government/industry organization. Under our deal, MaRS staff will personally support any SharpestMinds student in navigating Canada's GTS visa system. But more than that: **MaRS will also handle the GTS application process for any company that hires one of our grads!** Make sure to mention this if you're interviewing at a Canadian company, because they need to know this before the offer stage. Having MaRS handle their application process probably saves them ~$4k in legal fees they'd otherwise have to pay if they hired you.
+
+2. We also have an agreement with [GlobalSkills.io](http://globalskills.io), a recruiting company that places internationals at Canadian companies through GTS. If you're international, they can connect you to their hiring partners and help their partners with the GTS application process.
+
+Both of the deals above are free for you to use, so take advantage of them! To redeem either deal, DM an admin on SharpestMinds Slack and we'll get you set up.
+
 # Random FAQ
 
 ### What if I don't know what career path to follow?
