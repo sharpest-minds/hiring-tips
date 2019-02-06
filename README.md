@@ -88,7 +88,9 @@ If you're trying to get a job in Canada, the visa process is a lot easier. Canad
 
 If you're an international resident trying to get a job in Canada, SharpestMinds can help you in two ways:
 
-1. We have an deal with [MaRS](https://www.marsdd.com), a local government/industry organization. Under our deal, MaRS staff will personally support any SharpestMinds student in navigating Canada's GTS visa system. But more than that: **MaRS will also handle the GTS application process for any company that hires one of our grads!** Make sure to mention this if you're interviewing at a Canadian company, because they need to know this before the offer stage. Having MaRS handle their application process probably saves them ~$4k in legal fees they'd otherwise have to pay if they hired you.
+1. We have a deal with [MaRS](https://www.marsdd.com), a Canadian government/industry organization. Under our deal, MaRS staff will personally support any SharpestMinds student in navigating Canada's GTS visa system. But more than that: **MaRS will also handle the GTS application process for any company that hires one of our grads!** Make sure to mention this if you're interviewing at a Canadian company, because they need to know this before the offer stage. Having MaRS handle their application process probably saves them ~$4k in legal fees they'd otherwise have to pay if they hired you.
+
+ 
 
 2. We also have an agreement with [GlobalSkills.io](http://globalskills.io), a recruiting company that places internationals at Canadian companies through GTS. If you're international, they can connect you to their hiring partners and help their partners with the GTS application process.
 
