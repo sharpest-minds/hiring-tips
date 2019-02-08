@@ -11,7 +11,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 3. You can also get $300 in free GCP credits (any service) via their [free tier](https://cloud.google.com/free/docs/gcp-free-tier).
 
-4. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **~100k** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
+4. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **~over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
 
 # Checklist: once you hit the halfway point of your mentorship
 
