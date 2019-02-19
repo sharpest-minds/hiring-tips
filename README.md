@@ -124,3 +124,7 @@ Here's a great phrase one of our earliest mentees used to use after getting an e
 > Can you tell me more about what XYZ co is up to? What's the tightest bottleneck at the moment?
 
 ^ What a great line! It shows he's zeroing in right away on what's most important _to them_. Use it! (Adapt the wording to suit your personality. You may also have to substitute "XYZ co" for "your team at XYZ co" if XYZ co is bigger than ~20 employees.)
+
+### Is there anything different about being a data scientist at a small (~20 employee) company?
+
+Yes. I won't be able to do any better at explaining this than to point you to [this Medium post](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c).
