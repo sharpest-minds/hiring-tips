@@ -28,7 +28,7 @@ A checklist of things to consider when starting a mentorship:
  - If there is no project decided on already, make this the goal of the first week. Point the mentee towards some resources / sources of data / or suggest your own project ideas
  - **TODO**: link to example projects from other SharpestMinds mentorships
  - Projects should loosely follow these steps:
- 	- Data collection
+ - Data collection
 	- Data analysis/exploration
 	- Feature engineering/selection
 	- Model building
