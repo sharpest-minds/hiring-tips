@@ -1,4 +1,4 @@
-An activley maintanied resource of best practices and tips around mentorships.  
+An activley maintained resource of best practices and tips around mentorships.  
 If you are a SharpestMinds mentor, please contribute!
 
 ## Interview checklist
@@ -34,7 +34,7 @@ A checklist of things to consider when starting a mentorship:
 	- Model building
 	- Model deployment
  - *Suggestion*: Set up a GitHub repo, and have mentee submit PRs for your approval
- - *Sugegstion*: encourage mentee to write blog posts about significant milesetons
+ - *Suggestion*: encourage mentee to write blog posts about significant milesetons
  - **TODO**: Link to some resources on structuring a data science project
  - **pro-tip:** Try and structure workflow like you would in an industry setting. (e.g. agile/scrum, CI/CD tooling)
  - **TODO**: list useful tools for remote collaboration
