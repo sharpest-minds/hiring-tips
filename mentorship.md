@@ -19,7 +19,7 @@ A checklist of things to consider when starting a mentorship:
  - *Suggestion:* Review last weeks goals, set new goals for week
  - *Suggestion:* Keep a running list of non-urgent issues/questions/things to bring up during meeting (both mentee and mentor should do this)
 3. **Set expectations:**
- - Honesty is important, be honest about what mentee's should expect from you and what you expect from them
+ - Honesty is important, be honest about what mentees should expect from you and what you expect from them
  - Tell mentees to be honest if they feel like they are not getting enough value or are unsatisfied with the mentorship (let us know if this happens, SharpestMinds can help you sort it out).
  - What is your availability?
  - What is the primary commuication channel? (eg. email, slack, SharpestMinds) and what will your response rate be like?
