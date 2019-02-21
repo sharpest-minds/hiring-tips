@@ -1,7 +1,7 @@
 # hiring-tips
 Compendium of tips on how to get hired in ML / data science via your mentorship. Includes tools &amp; links. **Please keep this repo confidential.**
 
-[Click here for tips on starting and structuring a mentorship](./mentorship.md)
+**If you're a mentor:** [Click here for tips on starting and structuring a mentorship.](./mentorship.md)
 
 In addition to what's below, you'll find more useful information on [our blog page](https://www.sharpestminds.com/blog).
 
