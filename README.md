@@ -57,24 +57,26 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 3. If English isn't your first language (and even if it is), consider using [Grammarly](https://www.grammarly.com) for your resume, blog posts, and emails. Hiring managers will often reject you out of hand for misspellings and grammar errors, and Grammarly is an easy way to save yourself from that.
 
-4. To prepare for the interview, follow the advice at the end of [this blog post](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996). It's geared to software engineering, but can be easily adapted to ML / data science.
+4. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
 
-5. To prepare for the interview, use the Briefcase Technique - [described in this blog post.](https://www.iwillteachyoutoberich.com/the-briefcase-technique/) It's especially useful if there's one company that you _really_ want to work at and you get an interview. (Ignore the marketing-speak in the linked blogpost, the technique works and that's what matters.)
+5. To prepare for the interview, follow the advice at the end of [this blog post](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996). It's geared to software engineering, but can be easily adapted to ML / data science.
 
-6. Find out who is going to be interviewing you, then look them up on LinkedIn, Twitter, and Facebook. Most questions in interviews have many correct answers, so the more context you have on your interviewer, the better you'll be able to predict which correct answers they're looking for! **Elite tip:** It can be a great idea to quote some of their own insights back at them, if they've written in blogs or on Twitter.
+6. To prepare for the interview, use the Briefcase Technique - [described in this blog post.](https://www.iwillteachyoutoberich.com/the-briefcase-technique/) It's especially useful if there's one company that you _really_ want to work at and you get an interview. (Ignore the marketing-speak in the linked blogpost, the technique works and that's what matters.)
 
-7. During the interview, you might get asked if you have any questions for the interviewer about the team or the organization. [Here's a great list of questions you can ask](https://doctorj.gitlab.io/interview-questions/); pick a few you find most interesting.
+7. Find out who is going to be interviewing you, then look them up on LinkedIn, Twitter, and Facebook. Most questions in interviews have many correct answers, so the more context you have on your interviewer, the better you'll be able to predict which correct answers they're looking for! **Elite tip:** It can be a great idea to quote some of their own insights back at them, if they've written in blogs or on Twitter.
 
-8. Getting no follow up after an interview is _not unusual_ - in this or in any other activity where you're selling yourself. Remember that you're playing a numbers game: each time you practice the technical interview your odds for the next time around go up.
+8. During the interview, you might get asked if you have any questions for the interviewer about the team or the organization. [Here's a great list of questions you can ask](https://doctorj.gitlab.io/interview-questions/); pick a few you find most interesting.
 
-9. If you don't hear back from the interviewer: follow up with them 2-3 times by email (once every 2-3 days) with a simple, polite request for feedback. If you can combine that with a thought or a suggestion that would help their business (e.g., "I was thinking about the way you model sales for widgets, and it occurred to me that you might get better performance if you used model X instead of model Y because of Z"), that's :100:.
+9. Getting no follow up after an interview is _not unusual_ - in this or in any other activity where you're selling yourself. Remember that you're playing a numbers game: each time you practice the technical interview your odds for the next time around go up.
 
-10. Your frame of mind is: you are a person who can add significant value to their business. If they don't want you, no problem: you will find another business and you will add value over there instead. There's no emotional component to the decision from either side; it's just business.
+10. If you don't hear back from the interviewer: follow up with them 2-3 times by email (once every 2-3 days) with a simple, polite request for feedback. If you can combine that with a thought or a suggestion that would help their business (e.g., "I was thinking about the way you model sales for widgets, and it occurred to me that you might get better performance if you used model X instead of model Y because of Z"), that's :100:.
 
-11. To keep your energy high, _focus on the process, not the goal_. Allow yourself to feel a sense of accomplishment when you learn things that improve your process for applying / interviewing / etc.
+11. Your frame of mind is: you are a person who can add significant value to their business. If they don't want you, no problem: you will find another business and you will add value over there instead. There's no emotional component to the decision from either side; it's just business.
+
+12. To keep your energy high, _focus on the process, not the goal_. Allow yourself to feel a sense of accomplishment when you learn things that improve your process for applying / interviewing / etc.
 **Focus on the inputs and the output will come eventually** :muscle:.
 
-12. In other words: learn as much as you can from each no, then deliberately move on. **It doesn't matter how many nos you get.** All that matters is that one of them is a yes. And that will happen!!!
+13. In other words: learn as much as you can from each no, then deliberately move on. **It doesn't matter how many nos you get.** All that matters is that one of them is a yes. And that will happen!!!
 
 # 🌍 If you are **not** a US or Canadian citizen or permanent resident
 
