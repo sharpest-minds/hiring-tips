@@ -34,7 +34,7 @@ A checklist of things to do when starting a mentorship:
 
 3. **Set expectations:**
  - You and your mentee both share the same goal, so honesty is everything. Be honest about what mentees should expect from you, and what you expect from them.
- - What kind of response time and availability should they expect from you? What kind of response time and availabiilty should they expect from you?
+ - What kind of response time and availability should they expect from you? What kind of response time and availabiilty should you expect from them?
  - Tell mentees to be honest if they feel like they are not getting enough value or are unsatisfied with the mentorship. If this ever happens, let us know by sending an admin a DM on Slack. We can support you if any issues come up.
  - What is the primary communication channel you'll use? (eg. email, Slack, SharpestMinds)
 
