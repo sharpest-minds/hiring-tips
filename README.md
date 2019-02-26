@@ -129,6 +129,31 @@ Here's a great phrase one of our earliest mentees used to use after getting an e
 
 ^ What a great line! It shows he's zeroing in right away on what's most important _to them_. Use it! (Adapt the wording to suit your personality. You may also have to substitute "XYZ co" for "your team at XYZ co" if XYZ co is bigger than ~20 employees.)
 
+Here's an example of an incredibly good followup to an intro email. It's a bit long, but it nails all the points.
+
+> Hi Edouard,
+> Thanks for the intro! I appreciate the effort you are putting in to make this connection happen.
+> (moved to BCC)
+
+> Hi `[name]`,
+> It's great to meet you! 
+
+> I read a few online articles about your mission with `[company name]`, but it was your Quora post that really helped a lot of my thoughts and ideas coalesce into more definite questions.
+
+> For example, what makes a person interesting, and how can you quantify whether someone would fit in a certain group? What are the best ways to facilitate meaningful interactions between humans and what are good metrics to quantify how successful the interaction was? How can a social network scale without diluting the essence of what makes it so fun? `[NOTE: These   questions are specific to the company, which is a special kind of social network.]`
+
+> I'm pretty excited about the approach `[company name]` has taken to address these complicated and fascinating questions, and I would love to talk about what I can offer to help your mission.
+
+> A little more about me: I'm a painter (mostly watercolor), as well as a data scientist. Given these two interests, my specialty lies in taking numbers and functions and turning them into visually appealing images that convey complex ideas in a simple, and visually appealing manner.  I also have a passion for both communicating and absorbing new ideas.
+
+> If you want to learn a little more about me I have a website where you can find a blog post about me, as well as other posts about code I've written: `[link to website]`
+
+> My current project, with a SharpestMinds mentor, is taking some medium size (~7 GB, 40 columns) data and feeding it into machine learning models to predict changes in customer behavior. 
+
+> I'm pretty excited to take the skills and knowledge I have and apply them to helping to build a great social networking platform for `[company name]`. I would love to schedule a phone call to chat a bit about what I can offer to you, and to see if I would be a good fit on your team.
+
+> Best,
+
 ### Is there anything different about being a data scientist at a small (~20 employee) company?
 
 Yes. I won't be able to do any better at explaining this than to point you to [this Medium post](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c).
