@@ -129,7 +129,7 @@ Here's a great phrase one of our earliest mentees used to use after getting an e
 
 ^ What a great line! It shows he's zeroing in right away on what's most important _to them_. Use it! (Adapt the wording to suit your personality. You may also have to substitute "XYZ co" for "your team at XYZ co" if XYZ co is bigger than ~20 employees.)
 
-Here's an example of an incredibly good followup to an intro email. It's a bit long, but it nails all the points.
+Here's an example of an incredibly good followup to an intro email. **Your followup should probably be shorter than this**, but I like this one as an example because it nails everything you might want to say in a followup.
 
 > Hi Edouard,
 > Thanks for the intro! I appreciate the effort you are putting in to make this connection happen.
