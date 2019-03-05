@@ -25,6 +25,8 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 4. A third tool you can use to apply online is [TalentWorks](https://talent.works/automate-your-job-search). This is an automated job search service that costs $5-10 a week. If you use TalentWorks, please let us know how it went for you. If enough people use it and like it, we'll try to get a bulk deal with them to save you money.
 
+5. Another tool you can use to apply (recommended by one of our mentors) is [Refdash](https://refdash.com). Refdash is a free service that lets you practice interviewing with experts, and sometimes also helps you skip HR screens in their partner companies.
+
 5. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
 6. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
