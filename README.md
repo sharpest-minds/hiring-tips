@@ -161,3 +161,13 @@ Here's an example of an incredibly good followup to an intro email. **Your follo
 ### Is there anything different about being a data scientist at a small (~20 employee) company?
 
 Yes. I won't be able to do any better at explaining this than to point you to [this Medium post](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c).
+
+### If I'm given a take home test with no deadline, how long should I take to submit it?
+
+Here's some advice from our mentors:
+
+> There is always a deadline. If not mentioned, ask for it. Many peope think that if you have a FT job and turn the asaignment in less than a day, you are taking time off your current job which is a red flag.
+
+> It's totally up to the employer. (...) For the problems with no deadline, spend as much time as you need to. They're more concerned about the quality and how you answer the question than handing it in as soon as possible.
+
+In other words: it depends. When in doubt, ask your mentor or message an admin on Slack.
