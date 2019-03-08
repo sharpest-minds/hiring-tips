@@ -23,6 +23,8 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 4. A second good place to apply is Y Combinator's [Work At A Startup](https://www.workatastartup.com) page. This lets you submit a single application to all YC companies.
 
+5. A third good place to look for open positions is [Hacker News](https://news.ycombinator.com). Every month, HN moderators put up a "Who Is Hiring?" post where companies post jobs. A great hack is to look up all past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
+
 5. A third tool you can use to apply online is [TalentWorks](https://talent.works/automate-your-job-search). This is an automated job search service that costs $5-10 a week. If you use TalentWorks, please let us know how it went for you. If enough people use it and like it, we'll try to get a bulk deal with them to save you money.
 
 6. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
