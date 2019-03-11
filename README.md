@@ -51,7 +51,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 1. Don't have a resume? Make one. [Use this template for the format](http://zokidesign.com/portfolio/free-resume-template/), [and use this template for the content](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit). Go through it and correct [these very common resume mistakes](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Then go through it _again_, and correct [these other resume mistakes that are specific to ML and data science](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)!
 
-2. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company, so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
+2. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
 
 ![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
