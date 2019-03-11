@@ -18,9 +18,9 @@ Here are some good general questions to ask a mentee applicant:
 
 You don't need to have decided on a project by the time you've started the mentorship, but if not, **you should make this the goal of your first week.**
 
-## Mentorship checklist
+## On your first call
 
-A checklist of things to do when starting a mentorship:
+A checklist of things to do on your first call with a mentee:
 
 1. **Schedule weekly or bi-weekly meetings:**
  - Pick a time and place. (e.g. Google Hangouts, Wednesdays 6pm)
