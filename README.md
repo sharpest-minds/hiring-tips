@@ -17,7 +17,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 1. Make a list of all the regular, small, technical [meetups](https://www.meetup.com) in your city. Ideally something where you discuss a paper or write actual code in a workshop. Start going, even if you sit in a corner and do nothing the first couple of times. The benefit of having industry people see your face every week compounds quickly.
 
-2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.**
+2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** ✨**New:** You can now request warm intros to companies directly through the SharpestMinds web app.
 
 3. Start applying to jobs. When applying online, you should apply through [Key Values](https://www.keyvalues.com). That sends a good signal to hiring managers. You shouldn't apply through Indeed. That sends a bad signal to hiring managers.
 
