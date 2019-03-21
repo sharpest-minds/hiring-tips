@@ -2,17 +2,30 @@
 
 A resource of best practices and tips for SharpestMinds mentorships.  If you're a mentor and you have an idea for something to add, please submit a PR! 🙂
 
-## Interview checklist
+## Interview guide
+
+When you interview a mentee applicant, it helps to set expectations. Here's an example of a format for a first conversation that tends to work well:
+
+1. One hour long.
+2. For the first 15 minutes or so, let the applicant tell you about their background.
+3. For the next 15 minutes or so, give a quick overview about what you work on, what your expertise is, and how you'd structure the mentorship. You can use the template (in the chat channel with the mentee) as an example.
+4. For the last 30 minutes, go into the details of what the applicant's general strengths and weaknesses are. If they seem promising, you can also discuss possible projects with them.
 
 Here are some good general questions to ask a mentee applicant:
 
  - What's your schedule like and how much time can you commit?
  - What's your educational background? Which MOOCs have you completed?
  - Have you done any other data science projects? Can you walk me through one?
+ - Do you know SQL?
+ - Do you know common ML algorithm X? (where X = SVD, t-SNE, backprop, ... etc.)
+ - How comfortable would you be explaining common algorithm X to me right now? What if I gave you 15 minutes to review X? What if I gave you overnight to review X?
+ - Have you done any problems on LeetCode or HackerRank?
+ - Have you done anything with servers? (e.g., Flask, Django, AWS, GCP)
  - Do you have any projects or problems in mind that you'd like to work on?
  - What industries are you interested in working in?
  - What's your ideal company to work at? What's your ideal role?
  - Where have you applied already?
+
 
 **NOTE:** At this stage, a mentee most likely doesn't know what a good project idea looks like. That's all right: they aren't in the industry yet, and you have veto power over any project they propose.
 
