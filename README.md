@@ -47,6 +47,28 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 6. Reach out to them after the event ends, and _follow up_. Expect to have to follow up an _anomalously high_ number of times. Networking events always generate a ton of connections for everybody, most of which go nowhere. Personalize your follow ups. They don't remember you, _but you should remember them_ - that's how you stand out!
 
+# Checklist: how to network on LinkedIn
+
+1. **For most people**, there isn't any value in collecting random LinkedIn connections if you don't know them and they don't know you. You should connect with someone on LinkedIn if you, at a minimum: a) have met them in person, or 2) have already had 2-way communication with them some other way (email, Twitter, etc.).
+
+2. If you want to follow someone's posts on LinkedIn (e.g., [Andrew Ng](https://www.linkedin.com/in/andrewyng/)), don't connect with them; *follow* them.
+
+3. While you should never try to connect with *random* people you don't know, it can be a good idea to connect with *specific* people you don't know. For example, if someone is a hiring manager at a company you want to work at, it can be a good idea to connect with them. The points below explain how to do that.
+
+4. Here's the situation. Suppose you really want to get hired at Uber Data Science in Seattle. You're being mentored by, e.g., a Senior Data Scientist at Deloitte.
+
+5. Start by searching for folks who work at Uber DS in Seattle on LinkedIn. Identify their Twitter accounts, Medium blogs, any online presence by any of them. Engage with them personally as much as possible - smart, positive comments on Twitter, Medium posts, etc. Do that for at least 1 week with as many of them as possible.
+
+6. Then, connect with as many as you can on LinkedIn with a personal, customized message ideally that references other stuff they've written online. People *love it* when you quote their own insights back to them.
+
+7. Once you're connected and you can message them without character limits, try to start a conversation. The trick is, don't ask for something - *offer* something. One good strategy is to combine an idea with an implied compliment. Example: I'm working on this data science project with a Senior Data Scientist at Deloitte (instant signal of high value). I had `this thought / idea / insight`, I've been following your work for the last little while, and been really impressed, and I'd really value your thoughts on it.
+
+8. This says to me: 1) A Senior Data Scientist at Deloitte thinks you're a valuable enough person to spend time working on a project with, so you must be valuable. 2) You think independently, since you've had this insight. 3) you've been following my work on the Internet and despite having access to a Senior DS at Deloitte you respect my work so much that you think I'm worth reaching out to about this.
+
+9. Do this with a small handful of people at first, and you're almost guaranteed to start a productive conversation with at least one of them.
+
+10. **Important:** Don't send generic messages to a ton of people. Impersonal LinkedIn spam will *only* damage your reputation. When in doubt, ask yourself: Does this message make it obvious that I've spent more than 5 minutes investigating this person's online presence? If the answer isn't "heck yes", then keep working on your message.
+
 # Checklist: how to apply
 
 1. Don't have a resume? Make one. [Use this template for the format](http://zokidesign.com/portfolio/free-resume-template/), [and use this template for the content](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit). Go through it and correct [these very common resume mistakes](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Then go through it _again_, and correct [these other resume mistakes that are specific to ML and data science](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)!
