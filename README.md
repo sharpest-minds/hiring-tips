@@ -25,13 +25,15 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 5. A third good place to look for open positions is [Hacker News](https://news.ycombinator.com). Every month, HN moderators put up a "Who Is Hiring?" post where companies post jobs. A great hack is to look up all past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
 
-5. A third tool you can use to apply online is [TalentWorks](https://talent.works/automate-your-job-search). This is an automated job search service that costs $5-10 a week. If you use TalentWorks, please let us know how it went for you. If enough people use it and like it, we'll try to get a bulk deal with them to save you money.
+6. Another place to find ML jobs is the [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter). We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
 
-6. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
+6. A third tool you can use to apply online is [TalentWorks](https://talent.works/automate-your-job-search). This is an automated job search service that costs $5-10 a week. If you use TalentWorks, please let us know how it went for you. If enough people use it and like it, we'll try to get a bulk deal with them to save you money.
 
-7. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
+7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
-8. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
+8. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
+
+9. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
 
 # Checklist: at a networking event or job fair
 
