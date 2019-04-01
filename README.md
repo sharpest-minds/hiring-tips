@@ -190,7 +190,7 @@ Yes. I won't be able to do any better at explaining this than to point you to [t
 
 Here's some advice from our mentors:
 
-> There is always a deadline. If not mentioned, ask for it. Many peope think that if you have a FT job and turn the asaignment in less than a day, you are taking time off your current job which is a red flag.
+> There is always a deadline. If not mentioned, ask for it. Many peope think that if you have a FT job and turn the assignment in less than a day, you are taking time off your current job which is a red flag.
 
 > It's totally up to the employer. (...) For the problems with no deadline, spend as much time as you need to. They're more concerned about the quality and how you answer the question than handing it in as soon as possible.
 
