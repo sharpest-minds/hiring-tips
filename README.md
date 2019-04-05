@@ -27,8 +27,6 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 6. Another place to find ML jobs is the [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter). We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
 
-6. A third tool you can use to apply online is [TalentWorks](https://talent.works/automate-your-job-search). This is an automated job search service that costs $5-10 a week. If you use TalentWorks, please let us know how it went for you. If enough people use it and like it, we'll try to get a bulk deal with them to save you money.
-
 7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
 8. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
