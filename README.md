@@ -19,13 +19,14 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** ✨**New:** You can now request warm intros to companies directly through the SharpestMinds web app.
 
-3. Start applying to jobs. When applying online, you should apply through [Key Values](https://www.keyvalues.com). That sends a good signal to hiring managers. You shouldn't apply through Indeed. That sends a bad signal to hiring managers.
+3. Start applying to jobs. Here are some good places to apply for ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
+ - Applying through [Key Values](https://www.keyvalues.com) sends a good signal to hiring managers, because they tend to attract good engineers as applicants. (Applying through Indeed sends a bad signal to hiring managers, so you shouldn't do it.)
 
-4. A second good place to apply is Y Combinator's [Work At A Startup](https://www.workatastartup.com) page. This lets you submit a single application to all YC companies.
+ - Y Combinator's [Work At A Startup](https://www.workatastartup.com) page is another great one. This lets you submit a single application to all YC companies.
 
-5. A third good place to look for open positions is [Hacker News](https://news.ycombinator.com). Every month, HN moderators put up a "Who Is Hiring?" post where companies post jobs. A great hack is to look up all past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
+ - [Hacker News](https://news.ycombinator.com)puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
 
-6. Another place to find ML jobs is the [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter). We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
+ - The [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) is another great place to apply for ML jobs. We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
 
 7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
