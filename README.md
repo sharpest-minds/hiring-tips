@@ -195,3 +195,11 @@ Here's some advice from our mentors:
 > It's totally up to the employer. (...) For the problems with no deadline, spend as much time as you need to. They're more concerned about the quality and how you answer the question than handing it in as soon as possible.
 
 In other words: it depends. When in doubt, ask your mentor or message an admin on Slack.
+
+### Do I have to apply to jobs on my own, or does SharpestMinds refer to me companies?
+
+Both. We can (and do) refer you to companies directly, but you absolutely need to continue applying on your own - otherwise you'll miss out on a ton of opportunities that you'd otherwise get to see.
+
+But our hiring network gives you a second advantage beyond direct referrals. When you apply to companies in our network and get turned down, it's often possible for us to discover the real reason why. In normal cases, when you apply for a position and get turned down, you'll never find out why. But when you apply to companies on our network, we're often able to use our personal relationships with them to get feedback that helps you improve your next application.
+
+The best way to think about it is this: your job is to keep applying to positions, and our job is to increase the chances of each application leading to a high-paying job offer.
