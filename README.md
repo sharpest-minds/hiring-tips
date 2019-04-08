@@ -21,13 +21,13 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 3. Start applying to jobs. Here are some good places to apply for ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
 
-  - Applying through [Key Values](https://www.keyvalues.com) sends a good signal to hiring managers, because they tend to attract good engineers as applicants. (Applying through Indeed sends a bad signal to hiring managers, so you shouldn't do it.)
+   👉 Applying through [Key Values](https://www.keyvalues.com) sends a good signal to hiring managers, because they tend to attract good engineers as applicants. (Applying through Indeed sends a bad signal to hiring managers, so you shouldn't do it.)
 
-  - Y Combinator's [Work At A Startup](https://www.workatastartup.com) page is another great one. This lets you submit a single application to all YC companies.
+   👉 Y Combinator's [Work At A Startup](https://www.workatastartup.com) page is another great one. This lets you submit a single application to all YC companies.
 
-  - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
+   👉 [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
 
-  - The [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) is another great place to apply for ML jobs. We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
+   👉 The [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) is another great place to apply for ML jobs. We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
 
 7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
