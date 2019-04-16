@@ -160,7 +160,7 @@ Here's a great phrase one of our earliest mentees used to use after getting an e
 Here's an example of an incredibly good followup to an intro email. **Your followup should probably be shorter than this**, but I like this one as an example because it nails everything you might want to say in a followup.
 
 > Hi Edouard,
-> Thanks for the intro! I appreciate the effort you are putting in to make this connection happen.
+> Thanks for the intro!
 > (moved to BCC)
 
 > Hi `[name]`,
