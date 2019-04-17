@@ -3,6 +3,17 @@ Compendium of tips on how to get hired in ML / data science via your mentorship.
 
 In addition to what's below, you'll find more useful information on [our blog page](https://www.sharpestminds.com/blog).
 
+### What you'll find here
+
+[What to do after you join](#checklist-after-you-join)
+[What to do when you reach the halfway point of your mentorship](#checklist-once-you-hit-the-halfway-point-of-your-mentorship)
+[How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
+[How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
+[How to prepare a resume](#checklist-how-to-apply)
+[How to prep for interviews](#checklist-how-to-interview)
+[🌍 Special deals for internationals](#-if-you-are-not-a-us-or-canadian-citizen-or-permanent-resident)
+[Answers to other general questions!](#random-faq)
+
 # Checklist: after you join
 
 1. If you don't have a LinkedIn account, get one. Add your mentor and every mentee you know on LinkedIn. And add [us](https://www.linkedin.com/in/e10is/) [admins](https://www.linkedin.com/in/jeremieharris/) [too](https://www.linkedin.com/in/russell-pollari-b555895a/)!
