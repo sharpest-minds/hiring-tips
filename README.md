@@ -88,7 +88,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 2. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
 
-![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
+   ![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
    **Important:** If you haven't been in the program very long (e.g., 2 months), you might want to title this "Data Scientist (Project)" or "Machine Learning (Project)" instead of just "Data Scientist". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
 
