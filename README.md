@@ -90,6 +90,8 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 ![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
+  **Important:** If you haven't been in the program very long (e.g., 2 months), you might want to title this "Data Scientist (Project)" or "Machine Learning (Project)" instead of just "Data Scientist". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
+
 3. If English isn't your first language (and even if it is), consider using [Grammarly](https://www.grammarly.com) for your resume, blog posts, and emails. Hiring managers will often reject you out of hand for misspellings and grammar errors, and Grammarly is an easy way to save yourself from that.
 
 4. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
