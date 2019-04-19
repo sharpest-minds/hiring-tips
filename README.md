@@ -90,7 +90,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
    ![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
-   **Important:** If you haven't been in the program very long (e.g., 2 months), you might want to title this "Data Scientist (Project)" or "Machine Learning (Project)" instead of just "Data Scientist". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
+   **Important:** If you haven't been in the program very long (like 2 months or less), you might want to title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
 
 3. If English isn't your first language (and even if it is), consider using [Grammarly](https://www.grammarly.com) for your resume, blog posts, and emails. Hiring managers will often reject you out of hand for misspellings and grammar errors, and Grammarly is an easy way to save yourself from that.
 
