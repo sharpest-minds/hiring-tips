@@ -7,6 +7,8 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 - [What to do after you join](#checklist-after-you-join)
 - [What to do when you reach the halfway point of your mentorship](#checklist-once-you-hit-the-halfway-point-of-your-mentorship)
+- [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
+ - [Your email address](#your-email-address)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -28,7 +30,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 1. Make a list of all the regular, small, technical [meetups](https://www.meetup.com) in your city. Ideally something where you discuss a paper or write actual code in a workshop. Start going, even if you sit in a corner and do nothing the first couple of times. The benefit of having industry people see your face every week compounds quickly.
 
-2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** ✨**New:** You can now request warm intros to companies directly through the SharpestMinds web app.
+2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** You can request warm intros to companies directly through the SharpestMinds web app.
 
 3. Start applying to jobs. Here are some good places to apply for ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
 
@@ -42,9 +44,45 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
-8. Don't use Yahoo or Hotmail as your email account when applying to jobs. Instead, you should either (1) Use gmail, **but only if** your email address is something like firstname.lastname@gmail.com; or (2) buy your own domain name and set up a mailserver on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that. Owning your own domain is much better than using gmail.
+8. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
 
-9. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
+# Job search, part 1: creating first impressions
+
+Later on, I'll cover how to reach out to companies properly in your job search. But first, you'll need to prepare the way for yourself. To do that, you'll need to systematically curate your online presence to make your value on the job market obvious.
+
+The more obvious your value is, the more receptive companies will be when you reach out to them, and the easier they'll be to negotiate with. If you follow the advice in this section properly, you might even find recruiters start to reach out to you. (Don't let that go to your head - a recruiter reaching out isn't that valuable by itself. It's just a sign you're on the right track.)
+
+## Your email address
+
+**First thing:** when you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com.
+
+**What to do:** buy your own domain name and set up an email account on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that.
+
+**How to do it:**
+1. Buy your domain from a registrar like [GoDaddy](http://godaddy.com). If you need help doing this, message an admin for advice. Whatever you do, make sure you get the `.com`.
+2. Follow the instructions in [this YouTube video](https://www.youtube.com/watch?v=8vQyhVOhNVw) to set up your email account. Make sure you test that your account works before using it to apply for jobs.
+
+**Why you're doing it:** You want to create the following impression in the mind of anyone who gets an email from you: "Wow... this person has their life together more than I do."
+
+## Your personal website
+
+Under construction! 🏗
+
+## Your LinkedIn profile
+
+Under construction! 🏗
+
+## Your resume
+
+Under construction! 🏗
+
+## Your Twitter account
+
+Under construction! 🏗
+
+## Your Medium account
+
+Under construction! 🏗
 
 # Checklist: at a networking event or job fair
 
