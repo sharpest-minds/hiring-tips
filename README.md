@@ -8,7 +8,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [What to do after you join](#checklist-after-you-join)
 - [What to do when you reach the halfway point of your mentorship](#checklist-once-you-hit-the-halfway-point-of-your-mentorship)
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
- - [Your email address](#your-email-address)
+  - [Your email address](#your-email-address)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
