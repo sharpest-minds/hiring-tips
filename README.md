@@ -44,17 +44,15 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
-8. Build a personal website for yourself. You don't need to know how to code one. The easiest way to do this is to use [GitHub Pages](https://pages.github.com). The slightly harder (but better) way is to host at your own domain name, and build the website with an editor like [Squarespace](https://www.squarespace.com), [Weebly](https://www.weebly.com) or [Webflow](https://webflow.com). (Pro tip: add a link to your website to the bottom of your email signature.)
-
 # Job search, part 1: creating first impressions
 
-Later on, I'll cover how to reach out to companies properly in your job search. But first, you'll need to prepare the way for yourself. To do that, you'll need to systematically curate your online presence to make your value on the job market obvious.
+Later on I'll cover how to reach out to companies in your job search. Before that, you need to prepare the way for yourself. In this section I'll cover how to curate your online presence to make your value obvious.
 
 The more obvious your value is, the more receptive companies will be when you reach out to them, and the easier they'll be to negotiate with. If you follow the advice in this section properly, you might even find recruiters start to reach out to you. (Don't let that go to your head - a recruiter reaching out isn't that valuable by itself. It's just a sign you're on the right track.)
 
 ## Your email address
 
-**First thing:** when you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com.
+When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com.
 
 **What to do:** buy your own domain name and set up an email account on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that.
 
@@ -66,7 +64,31 @@ The more obvious your value is, the more receptive companies will be when you re
 
 ## Your personal website
 
-Under construction! 🏗
+You do need to have a personal website. But you don't need to over-think it. The most important thing is to have one.
+
+**What to do:** set up a website for yourself at the same domain as your email. Your personal website only needs to have 3 things on it:
+
+1. Your name.
+
+2. A one-line blurb that describes you.
+
+3. Links to your other online profiles (LinkedIn, Twitter, Medium).
+
+That's it. You can add other things too, if you want. Just make sure those 3 things are on there.
+
+We recommend using [Wordpress](https://wordpress.com) to make your website because it's easy and fast. Check out [Russell's personal website](http://russellpollari.com) for a great example.
+
+**How to do it:**
+
+1. [Follow these instructions](https://godaddy.com/help/getting-started-with-wordpress-5140) to set up a Wordpress site on a GoDaddy domain. If you didn't use GoDaddy to buy your domain, Google for instructions for your domain provider.
+
+2. Add the content you need.
+
+3.  Play around with the design until you like the way it looks.
+
+**Why you're doing it:** When someone who doesn't know you gets an email from your personal domain, 2 out of 3 times they'll navigate straight to your personal website to find out more about you. Make sure your personal website exists.
+
+It's also a good idea to put a link to your personal website in your email signature.
 
 ## Your LinkedIn profile
 
