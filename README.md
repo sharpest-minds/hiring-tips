@@ -65,15 +65,15 @@ When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail
 
 ## Your personal website
 
-You do need to have a personal website. But you don't need to over-think it. The most important thing is to have one.
+You do need to have a personal website. But you don't need to over-think it.
 
 **What to do:** set up a website for yourself at the same domain as your email. Your personal website only needs to have 3 things on it:
 
-1. Your name.
+- Your name.
 
-2. A one-line blurb that describes you.
+- A one-line blurb that describes you.
 
-3. Links to your other online profiles (LinkedIn, Twitter, Medium).
+- Links to your other online profiles (LinkedIn, Twitter, Medium).
 
 That's it. You can add other things too, if you want. Just make sure those 3 things are on there.
 
@@ -87,15 +87,31 @@ We recommend using [Wordpress](https://wordpress.com) to make your website becau
 
 3.  Play around with the design until you like the way it looks.
 
-**Why you're doing it:** When someone who doesn't know you gets an email from your personal domain, 2 out of 3 times they'll navigate straight to your personal website to find out more about you. Make sure your personal website exists.
+**Why you're doing it:** When someone who doesn't know you gets an email from your personal domain, 2 out of 3 times they'll navigate straight to your personal website to find out more about you. Make sure that personal website exists.
 
 It's also a good idea to put a link to your personal website in your email signature.
 
-## Your LinkedIn profile
+## Your resume
+
+As you gain more experience, your resume will matter less and less. But early on, it matters a lot.
+
+**What to do:** Put together or update your resume. Make sure it's geared towards data science roles.
+
+Here's a list of common mistakes I see in resumes, plus a rating of how bad they are, either 😑 (annoying) or ☠️ (deadly). Avoid them:
+
+- Spelling mistakes ☠️
+- Inconsistent formatting 😑
+- So much text I can't get through it to read the important parts 😑
+- Gaps in your timeline so I can't tell what you were doing during some time period ☠️
+- Not ordering your timeline chronologically 😑
+- Listing Microsoft Office as one of your skills ☠️
+- Listing MNIST, the Titanic dataset, or another generic project in your list of projects ☠️
+
+And here's a list of things you can do to make your resume stronger, with a rating of how good they are, either 🙌 (solid) or 🎉 (amazing). Do all of these:
 
 Under construction! 🏗
 
-## Your resume
+## Your LinkedIn profile
 
 Under construction! 🏗
 
@@ -149,7 +165,7 @@ Under construction! 🏗
 
 2. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
 
-   ![How to include SharpestMind on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
+   ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
    **Important:** If you haven't been in the program very long (like 2 months or less), you might want to title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
 
