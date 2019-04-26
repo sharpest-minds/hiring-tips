@@ -10,6 +10,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
   - [Your email address](#your-email-address)
   - [Your personal website](#your-personal-website)
+  - [Your resume](#your-resume)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -106,8 +107,22 @@ Here's a list of common mistakes I see in resumes, plus a rating of how bad they
 - Not ordering your timeline chronologically 😑
 - Listing Microsoft Office as one of your skills ☠️
 - Listing MNIST, the Titanic dataset, or another generic project in your list of projects ☠️
+- Submitting your resume in any format other than a PDF ☠️
+- Including a detailed description of your graduate thesis if it isn't directly ML-related 😑
+- Including a list of publications if they aren't ML-related 😑
+- Mentioning that you have "communication skills" 😑
+- Having a resume that is 1 page long plus one sentence, instead of _either_ 1 page long or 1.5 pages long 😑
 
 And here's a list of things you can do to make your resume stronger, with a rating of how good they are, either 🙌 (solid) or 🎉 (amazing). Do all of these:
+
+- Include SharpestMinds in your resume under Experience 🎉
+- Make sure your Skills section is at the top of the resume 🙌
+- Divide your skills into "advanced" skills and "experience with" skills 🙌
+- If you've had technical or business jobs before, list your dollar contributions to them (e.g., increase revenues by X%, reduced costs by $Y) 🎉
+- List a few ML data types you're familiar working with (e.g., NLP, computer vision, time series) 🙌
+- Provide GitHub links to your best projects 🙌
+- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🎉
+- Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
 
 Under construction! 🏗
 
