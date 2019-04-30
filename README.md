@@ -74,7 +74,7 @@ You do need to have a personal website. But you don't need to over-think it.
 
 - A one-line blurb that describes you.
 
-- Links to your other online profiles (LinkedIn, Twitter, Medium).
+- Links to your other online profiles (GitHub, LinkedIn, Twitter, Medium).
 
 That's it. You can add other things too, if you want. Just make sure those 3 things are on there.
 
@@ -91,6 +91,10 @@ We recommend using [Wordpress](https://wordpress.com) to make your website becau
 **Why you're doing it:** When someone who doesn't know you gets an email from your personal domain, 2 out of 3 times they'll navigate straight to your personal website to find out more about you. Make sure that personal website exists.
 
 It's also a good idea to put a link to your personal website in your email signature.
+
+## Your GitHub profile
+
+Under construction! 🏗
 
 ## Your resume
 
@@ -124,7 +128,31 @@ And here's a list of things you can do to make your resume stronger, with a rati
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🎉
 - Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
 
-Under construction! 🏗
+**How to do it:**
+
+(If you already have a resume, skip the first 2 steps.)
+
+1.  Start by picking a format. You can use a free resume template like [this one.](http://zokidesign.com/portfolio/free-resume-template/)
+
+2. Start filling in the sections. [This template](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit) should you a good idea of what content to include. (Warning: the content in that example is good, but its format is terrible. Don't make your resume look like this.)
+
+The next steps involve subjecting your resume to multiple rounds of merciless review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
+
+3. Navigate to [this link](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Go through all 24 mistakes on the list and **eliminate them from your resume.**
+
+4. Navigate to [this link](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e). Go through all 4 mistakes on the list and **eliminate them from your resume.**
+
+5. Scroll back up to the "What to do" section above. Go through all the common mistakes I've listed (😑, ☠️) and **eliminate them from your resume.**
+
+6. Scroll back up _again_ to the "What to do" section above. Go through all the improvements I've listed (🙌, 🎉) and **add them to your resume.**
+
+7. Post your resume to the [#roastmyresume](https://sm-mentorship.slack.com/messages/CG8T413BM/) channel on SharpestMinds Slack and let us tear it apart!
+
+8. As your _last_ step, ask your mentor to take a look at your resume and offer some final advice.
+
+**Tip:** to fix spelling and grammar, download the [Sapling.ai](https://sapling.ai) Chrome extension and run it over your resume.
+
+**Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
 
 ## Your LinkedIn profile
 
@@ -176,17 +204,13 @@ Under construction! 🏗
 
 # Checklist: how to apply
 
-1. Don't have a resume? Make one. [Use this template for the format](http://zokidesign.com/portfolio/free-resume-template/), [and use this template for the content](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit). Go through it and correct [these very common resume mistakes](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Then go through it _again_, and correct [these other resume mistakes that are specific to ML and data science](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)!
-
-2. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
+1. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
 
    ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
 
    **Important:** If you haven't been in the program very long (like 2 months or less), you might want to title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
 
-3. If English isn't your first language (and even if it is), consider using [Grammarly](https://www.grammarly.com) for your resume, blog posts, and emails. Hiring managers will often reject you out of hand for misspellings and grammar errors, and Grammarly is an easy way to save yourself from that.
-
-4. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
+2. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
 
 # Checklist: how to interview
 
@@ -308,3 +332,7 @@ Both. We can (and do) refer you to companies directly, but you absolutely need t
 But our hiring network gives you a second advantage beyond direct referrals. When you apply to companies in our network and get turned down, it's often possible for us to discover the real reason why. In normal cases, when you apply for a position and get turned down, you'll never find out why. But when you apply to companies on our network, we're often able to use our personal relationships with them to get feedback that helps you improve your next application.
 
 The best way to think about it is this: your job is to keep applying to positions, and our job is to increase the chances of each application leading to a high-paying job offer.
+
+### How do I add SharpestMinds to my resume?
+
+Under construction! 🏗
