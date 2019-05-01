@@ -119,7 +119,7 @@ Here's a list of common mistakes I see in resumes, plus a rating of how bad they
 
 And here's a list of things you can do to make your resume stronger, with a rating of how good they are, either 🙌 (solid) or 🎉 (amazing). Do all of these:
 
-- Include SharpestMinds in your resume under Experience 🎉
+- [Include SharpestMinds in your resume under Experience](#how-do-i-add-sharpestminds-to-my-resume) 🎉
 - Make sure your Skills section is at the top of the resume 🙌
 - Divide your skills into "advanced" skills and "experience with" skills 🙌
 - If you've had technical or business jobs before, list your dollar contributions to them (e.g., increase revenues by X%, reduced costs by $Y) 🎉
@@ -204,13 +204,7 @@ Under construction! 🏗
 
 # Checklist: how to apply
 
-1. It's a very good idea to add SharpestMinds to your resume. You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. Keep in mind that we'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your term has ended. Here's an example of how to include SharpestMinds on your resume:
-
-   ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
-
-   **Important:** If you haven't been in the program very long (like 2 months or less), you might want to title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
-
-2. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
+1. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
 
 # Checklist: how to interview
 
@@ -335,4 +329,8 @@ The best way to think about it is this: your job is to keep applying to position
 
 ### How do I add SharpestMinds to my resume?
 
-Under construction! 🏗
+You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. We'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your mentorship term has ended. Here's an example of how to include SharpestMinds on your resume:
+
+   ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
+
+**Important:** If you haven't been in the program very long (2 months or less), you should title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
