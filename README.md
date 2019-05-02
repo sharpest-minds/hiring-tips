@@ -10,6 +10,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
   - [Your email address](#your-email-address)
   - [Your personal website](#your-personal-website)
+  - [Your GitHub](#your-github)
   - [Your resume](#your-resume)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
@@ -94,7 +95,27 @@ It's also a good idea to put a link to your personal website in your email signa
 
 ## Your GitHub profile
 
-Under construction! 🏗
+GitHub is where the rubber hits the road. It's where you show off the real meat of the projects you've done: not just explaining them, but showing the quality of your code. :octocat:
+
+**What to do:** If you don't have a GitHub account, get one. Don't feel bad if it's empty at first. It's _far_ better to have a single project that you're diving deep on than to have 20 projects that are all forks with 1 commit each.
+
+Here's a checklist of the bare minimum your GitHub account should have:
+- A repository for each of the projects you've done
+- A README file for each of your projects with a clear explanation of what it does and how to run it
+- Bonus points: A link to a URL where I can test a demo version of your project
+- Bonus points: If this is your mentorship project, include a log in the README of the changes you're making, along with the dates. This makes it obvious your project is under active development
+
+**How to do it:**
+
+1. If you don't already have a GitHub account, [create one](http://github.com).
+
+2. Add a profile pic of yourself that matches the profile pics you use on other professional networks (LinkedIn especially).
+
+3. Run through the checklist in the **What to do** section above and make sure you implement everything on there.
+
+4. Add your SharpestMinds mentorship project to your GitHub. This should be one of the projects you're going deep on, so include lots of detail, explanations, and ideally pictures.
+
+**Why you're doing it:** It's basically guaranteed that at some point during your job application process to _any_ company, someone technically capable is going to look at your GitHub profile. So make sure it looks good.
 
 ## Your resume
 
@@ -107,6 +128,7 @@ Here's a list of common mistakes I see in resumes, plus a rating of how bad they
 - Spelling mistakes ☠️
 - Inconsistent formatting 😑
 - So much text I can't get through it to read the important parts 😑
+- Including a picture of yourself 😑
 - Gaps in your timeline so I can't tell what you were doing during some time period ☠️
 - Not ordering your timeline chronologically 😑
 - Listing Microsoft Office as one of your skills ☠️
