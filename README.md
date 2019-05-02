@@ -10,7 +10,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
   - [Your email address](#your-email-address)
   - [Your personal website](#your-personal-website)
-  - [Your GitHub](#your-github)
+  - [Your GitHub](#your-github-profile)
   - [Your resume](#your-resume)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
