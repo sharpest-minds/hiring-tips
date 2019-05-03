@@ -287,7 +287,7 @@ Yes!!! But before you do, you should do two things. First, **tell your mentor ab
 
 Most meetups you go to will be a waste of time, but when you're starting you should go to all of them and figure out which ones are good and which ones are bad. The good ones will (1) be **technical**; (2) be **small**; and (3) **repeat often** (e.g. once a week). If you can't get all 3, then prioritize (1) and (3). A meetup that repeats often means you'll build long term relationships with the participants, many of whom will be hiring managers you want to work for.
 
-This strategy is way more successful than going to one-off "networking" events. Real networking is more than adding someone on LinkedIn: it's about building relationships That compound over time. The sooner you start, the better.
+This strategy is way more successful than going to one-off "networking" events. Real networking is more than adding someone on LinkedIn: it's about building relationships that compound over time. The sooner you start, the better.
 
 ### How can I tell if a company's ML team is actually good?
 
