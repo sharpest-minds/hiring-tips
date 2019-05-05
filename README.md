@@ -12,6 +12,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
   - [Your personal website](#your-personal-website)
   - [Your GitHub](#your-github-profile)
   - [Your resume](#your-resume)
+  - [Your LinkedIn](#your-linkedin-profile)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -172,11 +173,25 @@ The next steps involve subjecting your resume to multiple rounds of merciless re
 
 8. As your _last_ step, ask your mentor to take a look at your resume and offer some final advice.
 
-**Tip:** to fix spelling and grammar, download the [Sapling.ai](https://sapling.ai) Chrome extension and run it over your resume.
+**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
 
 **Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
 
 ## Your LinkedIn profile
+
+You probably have a LinkedIn account already. If you don't have one yet, get one.
+
+**What to do:** Create or polish your LinkedIn account. You should think about your LinkedIn profile the same way an ambitious person thinks about what to wear in an office: _dress for the job you want, not the job you have._
+
+Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mistakes as either 😑 (annoying) or ☠️ (deadly). Some of the mistakes are the same as the ones in the resume section and some are different. To avoid:
+
+- Spelling mistakes or inconsistent capitalization ☠️
+- **Not** having a profile picture 😑
+- Having a profile picture that looks like a mugshot ☠️
+- Mentioning that you have "communication skills" 😑
+- Calling yourself an "aspiring" data scientist ☠️
+- Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
+- Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst" ☠️
 
 Under construction! 🏗
 
