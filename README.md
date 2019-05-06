@@ -185,13 +185,26 @@ You probably have a LinkedIn account already. If you don't have one yet, get one
 
 Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mistakes as either 😑 (annoying) or ☠️ (deadly). Some of the mistakes are the same as the ones in the resume section and some are different. To avoid:
 
-- Spelling mistakes or inconsistent capitalization ☠️
+- Spelling mistakes ☠️
+- Weird capitalization of your own name, e.g., "BOB JOHNSON" ☠️
 - **Not** having a profile picture 😑
 - Having a profile picture that looks like a mugshot ☠️
 - Mentioning that you have "communication skills" 😑
 - Calling yourself an "aspiring" data scientist ☠️
 - Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
 - Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst" ☠️
+
+And here's a list of ways of strengthening your LinkedIn profile. Many of these are the same as for your resume; some are solid (🙌) and some are amazing (🎉). Do these all:
+
+- Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes your project best 🎉
+- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series) 🙌
+- Make sure you're smiling in your profile picture 🙌
+- In your description, mention 2-3 key accomplishments you have in data science or ML. For example, "I saved company X $1M per year with a new ML model for widgets", "I hit the top 10% in this Kaggle competition using a novel approach", or even, "I couldn't find any datasets with video of grocery store shelves, [so I  went out and collected that data myself](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)" 🎉
+- In your description, mention what fields you're interested in (e.g., healthcare, finance). Don't mention more than 3 🙌
+- Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🎉
+- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
+- Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
+- Make sure you add logos to the list of companies you've worked at 🙌
 
 Under construction! 🏗
 
