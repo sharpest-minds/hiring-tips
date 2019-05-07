@@ -159,7 +159,7 @@ And here's a list of things you can do to make your resume stronger, with a rati
 
 2. Start filling in the sections. [This template](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit) should you a good idea of what content to include. (Warning: the content in that example is good, but its format is terrible. Don't make your resume look like this.)
 
-The next steps involve subjecting your resume to multiple rounds of merciless review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
+The next steps involve subjecting your resume to multiple rounds of review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
 
 3. Navigate to [this link](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Go through all 24 mistakes on the list and **eliminate them from your resume.**
 
@@ -189,6 +189,7 @@ Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mis
 - Weird capitalization of your own name, e.g., "BOB JOHNSON" ☠️
 - **Not** having a profile picture 😑
 - Having a profile picture that looks like a mugshot ☠️
+- Gaps in your timeline of education or experience 😑
 - Mentioning that you have "communication skills" 😑
 - Calling yourself an "aspiring" data scientist ☠️
 - Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
@@ -197,16 +198,32 @@ Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mis
 And here's a list of ways of strengthening your LinkedIn profile. Many of these are the same as for your resume; some are solid (🙌) and some are amazing (🎉). Do these all:
 
 - Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes your project best 🎉
-- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series) 🙌
 - Make sure you're smiling in your profile picture 🙌
-- In your description, mention 2-3 key accomplishments you have in data science or ML. For example, "I saved company X $1M per year with a new ML model for widgets", "I hit the top 10% in this Kaggle competition using a novel approach", or even, "I couldn't find any datasets with video of grocery store shelves, [so I  went out and collected that data myself](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)" 🎉
+- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiter will find you based on these keywords! 🎉
+- In your description, mention 2-3 key accomplishments you have in data science or ML. Your format should be: I accomplished `X`, as measured by `Y`, by doing `Z`. For example, "I saved ABC Corp $1M per year by building them a new ML model for widgets", "I hit the top 10% in this Kaggle competition by applying the method from this research paper", or even, "I built a grocery store inventory manager 3X more efficient than the legacy system, [by collecting the data I needed with my smartphone](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)" 🎉
 - In your description, mention what fields you're interested in (e.g., healthcare, finance). Don't mention more than 3 🙌
 - Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🎉
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
 - Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
 - Make sure you add logos to the list of companies you've worked at 🙌
 
-Under construction! 🏗
+**How to do it:**
+
+(If you already have a LinkedIn profile, skip the first step.)
+
+1.  Create your [LinkedIn](http://linkedin.com) profile. Make sure it's connected to an email account that you check regularly.
+
+The next steps involve subjecting your LinkedIn to multiple rounds of review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
+
+2. Scroll back up to the "What to do" section above. Go through all the common mistakes I've listed (😑, ☠️) and **eliminate them from your resume.**
+
+3. Scroll back up _again_ to the "What to do" section above. Go through all the improvements I've listed (🙌, 🎉) and **add them to your resume.**
+
+4. As your _last_ step, ask your mentor to take a look at your LinkedIn and offer you some final advice.
+
+**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
+
+**Why you're doing it:** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
 
 ## Your Twitter account
 
