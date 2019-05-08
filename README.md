@@ -62,7 +62,7 @@ When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail
 
 **How to do it:**
 1. Buy your domain from a registrar like [GoDaddy](http://godaddy.com). If you need help doing this, message an admin for advice. Whatever you do, make sure you get the `.com`.
-2. Follow the instructions in [this YouTube video](https://www.youtube.com/watch?v=8vQyhVOhNVw) to set up your email account. Make sure you test that your account works before using it to apply for jobs.
+2. Follow the instructions in [this help page on Google](https://support.google.com/a/answer/33353) to set up a gmail account on your domain. Make sure you test that your account works before using it to apply for jobs.
 
 **Why you're doing it:** You want to create the following impression in the mind of anyone who gets an email from you: "Wow... this person has their life together more than I do."
 
