@@ -13,6 +13,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
   - [Your GitHub](#your-github-profile)
   - [Your resume](#your-resume)
   - [Your LinkedIn](#your-linkedin-profile)
+  - [Your Twitter](#your-twitter-account)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -199,7 +200,7 @@ And here's a list of ways of strengthening your LinkedIn profile. Many of these 
 
 - Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes your project best 🎉
 - Make sure you're smiling in your profile picture 🙌
-- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiter will find you based on these keywords! 🎉
+- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiters will find you based on these keywords! 🎉
 - In your description, mention 2-3 key accomplishments you have in data science or ML. Your format should be: I accomplished `X`, as measured by `Y`, by doing `Z`. For example, "I saved ABC Corp $1M per year by building them a new ML model for widgets", "I hit the top 10% in this Kaggle competition by applying the method from this research paper", or even, "I built a grocery store inventory manager 3X more efficient than the legacy system, [by collecting the data I needed with my smartphone](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)" 🎉
 - In your description, mention what fields you're interested in (e.g., healthcare, finance). Don't mention more than 3 🙌
 - Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🎉
@@ -227,7 +228,32 @@ The next steps involve subjecting your LinkedIn to multiple rounds of review. �
 
 ## Your Twitter account
 
-Under construction! 🏗
+Twitter isn't essential, but it can be very useful. The key is to follow insightful people in your industry and engage with them. This is a long-term strategy: it works well, but can take several months.
+
+**What to do:** Get a Twitter account and start following interesting people. Here's a few people we find interesting that you can start with:
+- [@DavidDuvenaud](https://twitter.com/DavidDuvenaud), creator of neural ODEs
+- [@geoffreyhinton](https://twitter.com/geoffreyhinton), godfather of deep learning
+- [@jeremyphoward](https://twitter.com/jeremyphoward), founder of [fast.ai](https://fast.ai)
+- [@math_rachel](https://twitter.com/math_rachel), founder of [fast.ai](https://fast.ai)
+- [@naval](https://twitter.com/naval), founder of AngelList
+- [@patio11](https://twitter.com/patio11), software engineer at Stripe
+- [@paulg](https://twitter.com/paulg), founder of Y Combinator
+
+You can also follow us! [@neutronsNeurons](https://twitter.com/neutronsNeurons) [@jeremiecharris](https://twitter.com/jeremiecharris) [@russ_poll](https://twitter.com/russ_poll)
+
+**Avoid** following media organizations or political accounts. These are a huge distraction if you're trying to use Twitter professionally. If you _absolutely must_ follow a political account for some reason, mute them so their tweets don't show up in your timeline.
+
+**How to do it:**
+
+1. Go to [Twitter](http://twitter.com) and sign up for an account. Skip the step where Twitter suggests people and news organizations to follow. These are usually terrible suggestions.
+
+2. Add a profile picture. Make it the same one you use on LinkedIn.
+
+3. Follow a handful of interesting people in startups and/or machine learning. I recommend starting from the list in **What to do**, above, and letting your interests develop naturally from there.
+
+4. Send out 10-15 tweets (or just retweet things that interesting people have said) so your profile doesn't look empty.
+
+**Why you're doing it:** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
 
 ## Your Medium account
 
