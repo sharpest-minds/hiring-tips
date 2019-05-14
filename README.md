@@ -14,6 +14,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
   - [Your resume](#your-resume)
   - [Your LinkedIn](#your-linkedin-profile)
   - [Your Twitter](#your-twitter-account)
+- [Job search, part 2: job application strategy](#job-search-part-2-job-application-strategy)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -255,7 +256,53 @@ You can also follow us! [@neutronsNeurons](https://twitter.com/neutronsNeurons) 
 
 **Why you're doing it:** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
 
-## Your Medium account
+# Job search, part 2: job application strategy
+
+## What job search strategy should I use?
+
+It depends. Here are the possibilities:
+
+### 1) You live in a major tech hub
+
+This is a city with a very high concentration of AI jobs and talent, and where SM has a strong presence in the local community.
+
+**How you know if you live in a major tech hub**
+
+You're in a major tech hub if you live in one of these 3 areas:
+
+- The Greater Toronto Area :city_sunrise:
+- The San Francisco Bay Area :bridge_at_night:
+- The Greater New York City Area :statue_of_liberty:
+
+or you're close enough to one of them that you're able to spend a couple of evenings a week there.
+
+**What to do if you live in a major tech hub**
+
+- You should be spending about 60% of your search time [in meetups](#meetup-strategy), and the rest [doing email outreach](#email-strategy) or [LinkedIn outreach](#linkedin-strategy).
+- You should contact a SharpestMinds admin, who may be able to put you in touch with contacts we have in the community.
+- It's very likely, but not guaranteed, that you'll be able to find a job close to where you live.
+
+### 2) You live in a second-tier city
+
+Under construction! 🏗
+
+### 3) You live somewhere else
+
+Under construction! 🏗
+
+## Meetup strategy
+
+Under construction! 🏗
+
+## Email strategy
+
+Under construction! 🏗
+
+## LinkedIn strategy
+
+Under construction! 🏗
+
+## Job board strategy
 
 Under construction! 🏗
 
