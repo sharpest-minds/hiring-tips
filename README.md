@@ -278,13 +278,30 @@ or you're close enough to one of them that you're able to spend a couple of even
 
 **What to do if you live in a major tech hub**
 
-- You should be spending about 60% of your search time [in meetups](#meetup-strategy), and the rest [doing email outreach](#email-strategy) or [LinkedIn outreach](#linkedin-strategy).
+- You should be spending about 60% of your search time [in meetups](#meetup-strategy), and the rest [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
 - You should contact a SharpestMinds admin, who may be able to put you in touch with contacts we have in the community.
 - It's very likely, but not guaranteed, that you'll be able to find a job close to where you live.
 
-### 2) You live in a second-tier city
+### 2) You live in a minor tech hub
 
-Under construction! 🏗
+This is a city that has a vibrant tech scene and a decent number of AI opportunities, but less so than a major hub. SM may or may not have a presence here.
+
+**How to know if you live in a minor tech hub**
+
+For our purposes, there's a simple way to check:
+
+1. [Search for tech events in your city on Meetup.com.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is correct.
+
+2. Scroll down and look at the titles of the meetups.
+
+3. Do you see at least 3-4 meetups in the next month on the topics of AI, data science, ML, or data engineering? You do? Then you live in a minor tech hub.
+
+**What to do if you live in a minor tech hub**
+
+- You should spend as much of your search time as possible [in meetups](#meetup-strategy). Depending one the tech density in your city, this will range from 10% to 50% of your search time.
+- You should spend the rest of your search time [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
+- You should contact a SharpestMinds admin. We have contacts in some local meetup communities, so it's worth asking us.
+- You may be able to find a job close to where you live, but you should definitely be open to moving if you get an onsite offer elsewhere.
 
 ### 3) You live somewhere else
 
