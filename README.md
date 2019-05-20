@@ -266,7 +266,7 @@ It depends. Here are the possibilities:
 
 This is a city with a very high concentration of AI jobs and talent, and where SM has a strong presence in the local community.
 
-**How you know if you live in a major tech hub**
+**How to tell if you live in a major tech hub**
 
 You're in a major tech hub if you live in one of these 3 areas:
 
@@ -286,7 +286,7 @@ or you're close enough to one of them that you're able to spend a couple of even
 
 This is a city that has a vibrant tech scene and a decent number of AI opportunities, but less so than a major hub. SM may or may not have a presence here.
 
-**How to know if you live in a minor tech hub**
+**How to tell if you live in a minor tech hub**
 
 For our purposes, there's a simple way to check:
 
@@ -305,7 +305,12 @@ For our purposes, there's a simple way to check:
 
 ### 3) You live somewhere else
 
-Under construction! 🏗
+If you live somewhere that isn't either a major or minor tech hub, that means you won't be able to rely on meetups as part of your job search strategy.
+
+**What to do if you don't live in a tech hub**
+
+- You should spend all of your search time [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
+- You should **not** expect that you'll be able to find a job close to where you live. Be open to moving elsewhere for work.
 
 ## Meetup strategy
 
