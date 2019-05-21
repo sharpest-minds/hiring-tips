@@ -15,6 +15,8 @@ In addition to what's below, you'll find more useful information on [our blog pa
   - [Your LinkedIn](#your-linkedin-profile)
   - [Your Twitter](#your-twitter-account)
 - [Job search, part 2: job application strategy](#job-search-part-2-job-application-strategy)
+  - [What job search strategy should I use?](#what-job-search-strategy-should-i-use)
+  - [Meetup strategy](#meetup-strategy)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -314,6 +316,36 @@ If you live somewhere that isn't either a major or minor tech hub, that means yo
 
 ## Meetup strategy
 
+The meetup strategy is the strategy that takes the longest to convert. But minute-for-minute, it's easily the most effective. If you live in a [major](#1-you-live-in-a-major-tech-hub) or [minor](#2-you-live-in-a-minor-tech-hub) tech hub, there's no excuse not to use it.
+
+**What to do:** Attend as many _high-quality_ data science-related meetups in your area as you can. Even if you have to commute for an hour to get to the meetup, it can be worth it if the meetup is good enough.
+
+High-quality meetups have most of the following properties:
+
+- They're **technically focused.** This ensures that less competent people drop out quickly from boredom. Research paper or project presentations are good. "Introduction to Python for Data Science" is bad.
+
+- They **recur often.** This lets you get to know the community faster. Every week is great. Every month is fine.
+
+- They have **medium attendance.** The meetup should be small enough to be intimate, but big enough that you don't run out of people to talk to. 10-60 people attending is ideal. (That's not "10-60 people signed up on meetup.com". It's "10-60 asses in seats at the meetup".)
+
+**How to do it:**
+
+**First,** you need to figure out what the good meetups are in your area. There are two possibilities:
+
+A) **You live in a [major tech hub](#1-you-live-in-a-major-tech-hub):** Contact an admin. We'll send you a list of the meetups you should attend and instructions on how to join them. (Some of the best meetup groups in these cities aren't open to the public.)
+
+B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhere else](#3-you-live-somewhere-else):**
+
+1. [Go to meetup.com and search for tech meetups near your area.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is right.
+
+2. Start going to meetups. Start by casting a wide net: go to as many data science-related meetups as you can. It's very hard to tell which ones are good without going there in person.
+
+3. Stop going to the lame meetups. After you've been to a few, the lame meetups will seem lame; stop going to them. If you aren't sure, evaluate the meetups using the criteria in the **What to do** section above.
+
+  If you're in a small enough city, it's possible that all the meetups in your area will be lame. If so, you won't be able to use the meetup strategy.
+
+**Second,** you need to start networking. Here's how to do that:
+
 Under construction! 🏗
 
 ## Email strategy
@@ -325,6 +357,10 @@ Under construction! 🏗
 Under construction! 🏗
 
 ## Job board strategy
+
+Under construction! 🏗
+
+## How to use the SharpestMinds network
 
 Under construction! 🏗
 
