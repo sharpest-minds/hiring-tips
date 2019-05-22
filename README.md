@@ -346,7 +346,33 @@ B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhe
 
 **Second,** you need to start networking. Here's how to do that:
 
-Under construction! 🏗
+1. The question you should always be asking yourself at a meetup is this:
+
+  **"How can I learn as much as I possibly can about people's problems that I find interesting, and offer as much help as I possibly can to those people in solving their problems?"**
+
+  You can mess up a lot of things, but if you apply this mentality to everyone you talk to, doors will start opening for you. Every step after this is just tactical advice to get you to talk to more people.
+
+2. Go to your first meetup. If you feel nervous about meeting people, set yourself the goal of "just going".
+
+3. If you're shy in person, set yourself a goal to intro yourself to at least one attendee. At the next meetup increase this goal to two, then three.
+
+4. If you go to a meetup and someone presents a technical topic, a great way to start conversations afterwards is to _ask questions_ during the presentation. (Just do it politely, and make sure they're good questions.)
+
+5. Once you've discovered which meetups are good, _keep attending them_. See the **Why you're doing it** section below for why this is important.
+
+6. If you've been doing a project during your mentorship, and if you've been to a meetup a few times, ask the organizer if he'd be interested in having you present your project. **Don't feel shy about doing this!** Most meetup organizers lie awake at night thinking of how to fill their meetups with content. You're giving them what they need.
+
+7. Remember: _Ask people what their problems are and listen to them when they tell you!_ This is the essence of real networking.
+
+  Nobody cares about your problems. So if you want someone's attention, you need to care about their problems. (Later, once you've become wealthy and/or powerful, you'll suddenly discover that other people have started to care about your problems.)
+
+**Why you're doing it:**
+
+We've studied meetups extensively as a source of job leads. It's important to remember that the value you'll get from attending a meetup series compounds over time. It also compounds over different meetups across the same area, since the same people often go to multiple meetups.
+
+Meeting Bob from Google for the first time at Meetup X is fine. Meeting Bob for the sixth time at Meetup X is great. Meeting Bob at Meetup Y after you've already met him at Meetup X is fantastic.
+
+It will take you time to build up equity and trust in a meetup community. But after you've built up a head of steam it's one of the best possible uses of your time. We recommend prioritizing this for anyone who lives in an AI hub, or even a second tier city that has at least one good meetup series that meets regularly.
 
 ## Email strategy
 
