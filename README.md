@@ -348,9 +348,9 @@ B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhe
 
 1. The question you should always be asking yourself at a meetup is this:
 
-  **"How can I learn as much as I possibly can about people's problems that I find interesting, and offer as much help as I possibly can to those people in solving their problems?"**
+    **"How can I learn as much as I possibly can about people's problems that I find interesting, and offer as much help as I possibly can to those people in solving their problems?"**
 
-  You can mess up a lot of things, but if you apply this mentality to everyone you talk to, doors will start opening for you. Every step after this is just tactical advice to get you to talk to more people.
+    You can mess up a lot of things, but if you apply this mentality to everyone you talk to, doors will start opening for you. Every step after this is just tactical advice to get you to talk to more people.
 
 2. Go to your first meetup. If you feel nervous about meeting people, set yourself the goal of "just going".
 
@@ -364,7 +364,7 @@ B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhe
 
 7. Remember: _Ask people what their problems are and listen to them when they tell you!_ This is the essence of real networking.
 
-  Nobody cares about your problems. So if you want someone's attention, you need to care about their problems. (Later, once you've become wealthy and/or powerful, you'll suddenly discover that other people have started to care about your problems.)
+    Nobody cares about your problems. So if you want someone's attention, you need to care about their problems. (Later, once you've become wealthy and/or powerful, you'll suddenly discover that other people have started to care about your problems.)
 
 **Why you're doing it:**
 
