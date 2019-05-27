@@ -489,8 +489,6 @@ This strategy is way more successful than going to one-off "networking" events. 
 
 Evaluating the work of a company's ML/DS team from the outside can be irreducibly hard. Usually, you can't assess the quality of their work upfront because as an outsider you can see neither the inputs nor the outputs. My best advice is: ask them during the interview. Try to figure out what goes in, what comes out, how the pipeline is organized, and then ask yourself if it all seems reasonable.
 
-We also try to help with this problem by giving companies technical ratings in our hiring partners list, [at the bottom of this page](https://app.sharpestminds.com/mentee-resources). (Note: missing ratings don't necessarily mean we thing a company is bad, just that we may lack information.)
-
 ### How do I follow up on an intro email?
 
 Here's a great phrase one of our earliest mentees used to use after getting an email intro from us to company XYZ:
