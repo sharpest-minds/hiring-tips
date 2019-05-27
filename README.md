@@ -8,15 +8,14 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [What to do after you join](#checklist-after-you-join)
 - [What to do when you reach the halfway point of your mentorship](#checklist-once-you-hit-the-halfway-point-of-your-mentorship)
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
-  - [Your email address](#your-email-address)
-  - [Your personal website](#your-personal-website)
+  - [Your personal website and email address](#your-personal-website-and-email-address)
   - [Your GitHub](#your-github-profile)
   - [Your resume](#your-resume)
   - [Your LinkedIn](#your-linkedin-profile)
   - [Your Twitter](#your-twitter-account)
 - [Job search, part 2: job application strategy](#job-search-part-2-job-application-strategy)
   - [What job search strategy should I use?](#what-job-search-strategy-should-i-use)
-  - [Meetup strategy](#meetup-strategy)
+  - [How to apply offline](#how-to-apply-offline)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -58,23 +57,15 @@ Later on I'll cover how to reach out to companies in your job search. Before tha
 
 The more obvious your value is, the more receptive companies will be when you reach out to them, and the easier they'll be to negotiate with. If you follow the advice in this section properly, you might even find recruiters start to reach out to you. (Don't let that go to your head - a recruiter reaching out isn't that valuable by itself. It's just a sign you're on the right track.)
 
-## Your email address
+## Your personal website and email address
 
-When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com.
+When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com. It's much better to have an email at your own domain, and to host a personal website at that domain. Your personal website can be very simple, but it does need to exist.
 
-**What to do:** buy your own domain name and set up an email account on it. For example, if your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that.
+**What to do:** Buy your own domain name and set up a website and email account on it.
 
-**How to do it:**
-1. Buy your domain from a registrar like [GoDaddy](http://godaddy.com). If you need help doing this, message an admin for advice. Whatever you do, make sure you get the `.com`.
-2. Follow the instructions in [this help page on Google](https://support.google.com/a/answer/33353) to set up a gmail account on your domain. Make sure you test that your account works before using it to apply for jobs.
+If your name is John Q. Smith, your email should be john@jqsmith.com, john@johnqsmith.com or something like that.
 
-**Why you're doing it:** You want to create the following impression in the mind of anyone who gets an email from you: "Wow... this person has their life together more than I do."
-
-## Your personal website
-
-You do need to have a personal website. But you don't need to over-think it.
-
-**What to do:** set up a website for yourself at the same domain as your email. Your personal website only needs to have 3 things on it:
+Your personal website only needs to have 3.5 things on it:
 
 - Your name.
 
@@ -82,21 +73,24 @@ You do need to have a personal website. But you don't need to over-think it.
 
 - Links to your other online profiles (GitHub, LinkedIn, Twitter, Medium).
 
+- (Optional but recommended) A nice picture of yourself.
+
 That's it. You can add other things too, if you want. Just make sure those 3 things are on there.
 
-We recommend using [Wordpress](https://wordpress.com) to make your website because it's easy and fast. Check out [Russell's personal website](http://russellpollari.com) for a great example.
-
 **How to do it:**
+1. The fastest and cheapest way to set up your personal website is through [this GoDaddy discount link.](https://ca.godaddy.com/offers/web-hosting?isc=cjc1hos5&AID=10602879&SID=direct&utm_source=cj&utm_medium=affiliate&utm_campaign=xx-xx_corp_affiliate_base_purchase&utm_content=Website+Learners_4524826&tgt=7801801) Just follow the instructions in the link, and you can buy a domain name, website hosting, and email for $1 a month.
+2. Once you've done this, add a link to your personal website to your email signature.
 
-1. [Follow these instructions](https://godaddy.com/help/getting-started-with-wordpress-5140) to set up a Wordpress site on a GoDaddy domain. If you didn't use GoDaddy to buy your domain, Google for instructions for your domain provider.
+**[Here's an example of a great personal website. (Thanks, Phil Glazer! 🙌)](https://pglazer.com)**
 
-2. Add the content you need.
+**Note:** The GoDaddy link above gives you an email account hosted by Microsoft Office. Many people prefer to use gmail's interface. If you prefer to use gmail,
+follow the instructions in [this help page on Google](https://support.google.com/a/answer/33353) to set up a gmail account on your domain. Make sure you test that your account works before using it to apply for jobs.
 
-3.  Play around with the design until you like the way it looks.
+If you need help doing any of this, message an admin for advice.
 
-**Why you're doing it:** When someone who doesn't know you gets an email from your personal domain, 2 out of 3 times they'll navigate straight to your personal website to find out more about you. Make sure that personal website exists.
+**Why you're doing it:** You'll be doing a lot of cold email outreach to companies when you start looking for jobs. When you do, sending an email from your personal domain gives off a strong positive impression.
 
-It's also a good idea to put a link to your personal website in your email signature.
+If the person who receives your email is even slightly interested in talking to you, there's also a good chance they'll also navigate to your personal website if they see a link to it. This puts you in a very strong position, because it means you don't need to sell yourself in your initial email. Your initial email only needs to make them curious; and you can let your website do the rest.
 
 ## Your GitHub profile
 
@@ -121,6 +115,8 @@ Here's a checklist of the bare minimum your GitHub account should have:
 4. Add your SharpestMinds mentorship project to your GitHub. This should be one of the projects you're going deep on, so include lots of detail, explanations, and ideally pictures.
 
 **Why you're doing it:** It's basically guaranteed that at some point during your job application process to _any_ company, someone technically capable is going to look at your GitHub profile. So make sure it looks good.
+
+**[Here's an example of a great GitHub profile. (Thanks, Jamel Thomas! 🙌)](https://github.com/thom1178)**
 
 ## Your resume
 
@@ -179,6 +175,8 @@ The next steps involve subjecting your resume to multiple rounds of review. 🚨
 
 **Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
 
+**[Here's an example of a great resume. (Thanks, Pierre Damiba! 🙌)](https://drive.google.com/open?id=1EiRnV15xcVvhSojNNO4J0WFNvR_VWQmK)**
+
 **Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
 
 ## Your LinkedIn profile
@@ -195,6 +193,7 @@ Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mis
 - Having a profile picture that looks like a mugshot ☠️
 - Gaps in your timeline of education or experience 😑
 - Mentioning that you have "communication skills" 😑
+- Mentioning your experience in "IT" (say "software engineering" instead, or another synonym if it applies) ☠️
 - Calling yourself an "aspiring" data scientist ☠️
 - Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
 - Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst" ☠️
@@ -203,13 +202,12 @@ And here's a list of ways of strengthening your LinkedIn profile. Many of these 
 
 - Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes your project best 🎉
 - Make sure you're smiling in your profile picture 🙌
-- In your description, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiters will find you based on these keywords! 🎉
-- In your description, mention 2-3 key accomplishments you have in data science or ML. Your format should be: I accomplished `X`, as measured by `Y`, by doing `Z`. For example, "I saved ABC Corp $1M per year by building them a new ML model for widgets", "I hit the top 10% in this Kaggle competition by applying the method from this research paper", or even, "I built a grocery store inventory manager 3X more efficient than the legacy system, [by collecting the data I needed with my smartphone](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)" 🎉
-- In your description, mention what fields you're interested in (e.g., healthcare, finance). Don't mention more than 3 🙌
+- Have an About section 🎉
+- Use "I" language in your About section. Example: "I'm a data scientist who loves working on real world problems that catch my interest. A few things I've worked on: a recommender system for food based on genome, a fake news detection model that beats the state of the art, a fullstack iOS app for an amazing ecommerce company that eventually drove 30% of all sales." 🙌
+- In your About section, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiters will find you based on these keywords! 🎉
 - Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🎉
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
-- Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
-- Make sure you add logos to the list of companies you've worked at 🙌
+- Write in short sentences, with one idea per sentence 🎉
 
 **How to do it:**
 
@@ -226,6 +224,8 @@ The next steps involve subjecting your LinkedIn to multiple rounds of review. �
 4. As your _last_ step, ask your mentor to take a look at your LinkedIn and offer you some final advice.
 
 **Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
+
+**[Here's an example of a great LinkedIn profile. (Thanks, Swapnil Joshi! 🙌)](https://www.linkedin.com/in/swapnilrjoshi/)**
 
 **Why you're doing it:** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
 
@@ -280,7 +280,7 @@ or you're close enough to one of them that you're able to spend a couple of even
 
 **What to do if you live in a major tech hub**
 
-- You should be spending about 60% of your search time [in meetups](#meetup-strategy), and the rest [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
+- You should be spending about 60% of your search time [in meetups](#how-to-apply-offline), and the rest [doing cold outreach online.](#how-to-apply-online)
 - You should contact a SharpestMinds admin, who may be able to put you in touch with contacts we have in the community.
 - It's very likely, but not guaranteed, that you'll be able to find a job close to where you live.
 
@@ -300,8 +300,8 @@ For our purposes, there's a simple way to check:
 
 **What to do if you live in a minor tech hub**
 
-- You should spend as much of your search time as possible [in meetups](#meetup-strategy). Depending one the tech density in your city, this will range from 10% to 50% of your search time.
-- You should spend the rest of your search time [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
+- You should spend as much of your search time as possible [in meetups](#how-to-apply-offline). Depending one the tech density in your city, this will range from 10% to 50% of your search time.
+- You should spend the rest of your search time [doing cold outreach online.](#how-to-apply-online)
 - You should contact a SharpestMinds admin. We have contacts in some local meetup communities, so it's worth asking us.
 - You may be able to find a job close to where you live, but you should definitely be open to moving if you get an onsite offer elsewhere.
 
@@ -311,10 +311,10 @@ If you live somewhere that isn't either a major or minor tech hub, that means yo
 
 **What to do if you don't live in a tech hub**
 
-- You should spend all of your search time [doing email outreach](#email-strategy) and [LinkedIn outreach](#linkedin-strategy).
+- You should spend all of your search time applying online, but not through job boards - [apply the right way.](#how-to-apply-online)
 - You should **not** expect that you'll be able to find a job close to where you live. Be open to moving elsewhere for work.
 
-## Meetup strategy
+## How to apply offline
 
 The meetup strategy is the strategy that takes the longest to convert. But minute-for-minute, it's easily the most effective. If you live in a [major](#1-you-live-in-a-major-tech-hub) or [minor](#2-you-live-in-a-minor-tech-hub) tech hub, there's no excuse not to use it.
 
@@ -374,15 +374,9 @@ Meeting Bob from Google for the first time at Meetup X is fine. Meeting Bob for 
 
 It will take you time to build up equity and trust in a meetup community. But after you've built up a head of steam it's one of the best possible uses of your time. We recommend prioritizing this for anyone who lives in an AI hub, or even a second tier city that has at least one good meetup series that meets regularly.
 
-## Email strategy
+## How to apply online
 
-Under construction! 🏗
 
-## LinkedIn strategy
-
-Under construction! 🏗
-
-## Job board strategy
 
 Under construction! 🏗
 
