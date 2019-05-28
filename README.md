@@ -16,6 +16,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [Job search, part 2: job application strategy](#job-search-part-2-job-application-strategy)
   - [What job search strategy should I use?](#what-job-search-strategy-should-i-use)
   - [How to apply offline](#how-to-apply-offline)
+  - [How to apply online](#how-to-apply-online)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prepare a resume](#checklist-how-to-apply)
@@ -376,7 +377,24 @@ It will take you time to build up equity and trust in a meetup community. But af
 
 ## How to apply online
 
+The right way to apply online is **not** through job boards. The right way to apply online is to cold email specific individual people inside a company. This section will tell you exactly how to do that.
 
+**Note: The following advice applies best to companies that are ~500 employees or less. Applying to bigger companies takes a different strategy.**
+
+**What to do:** I'm going to take you through a systematic strategy of email outreach. A few things to note about this before we start:
+
+- You should apply online using cold email, _not_ using a job board
+- If you ignore this advice and apply through a job board anyway, use cold email on a company _first, and only then_ apply to that company through a job board
+-  You can expect a response rate of 20-30% on a good cold email
+- You can expect a response rate of 1-2% applying through a job board if you have a good resume
+
+**How to do it:** You're going to run a process, and run it over and over again. The output of that process will be an email sent to someone in a company that's hiring for ML or data science.
+
+A realistic target if you're actively applying for jobs is ~3 of these emails per day. As you get better at writing them, you'll be able to send more.
+
+**Before you begin:**
+
+1. 
 
 Under construction! 🏗
 
@@ -477,7 +495,7 @@ Use the Waterloo strategy. Here's what that is: (1) you work at a tiny startup t
 
 ### I just got a job offer. Should I negotiate the salary?
 
-Yes!!! But before you do, you should do two things. First, **tell your mentor about it so they can help you negotiate.** Second, [read this blog post](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). It'll be worth your time, I promise.
+Yes!!! The moment you get a job offer, **contact an admin** and we'll give you advice to help you negotiate the salary number.
 
 ### What kinds of meetups should I go to for networking?
 
