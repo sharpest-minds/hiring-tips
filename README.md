@@ -79,15 +79,10 @@ Your personal website only needs to have 3.5 things on it:
 That's it. You can add other things too, if you want. Just make sure those 3 things are on there.
 
 **How to do it:**
-1. The fastest and cheapest way to set up your personal website is through [this GoDaddy discount link.](https://ca.godaddy.com/offers/web-hosting?isc=cjc1hos5&AID=10602879&SID=direct&utm_source=cj&utm_medium=affiliate&utm_campaign=xx-xx_corp_affiliate_base_purchase&utm_content=Website+Learners_4524826&tgt=7801801) Just follow the instructions in the link, and you can buy a domain name, website hosting, and email for $1 a month.
+1. The fastest and cheapest way to set up your personal website is using [Google Domains.](https://domains.google/) Just follow the instructions in the link, and you can buy a domain name, website hosting, and personalized email domain for a few dollars a month.
 2. Once you've done this, add a link to your personal website to your email signature.
 
 **[Here's an example of a great personal website. (Thanks, Phil Glazer! 🙌)](https://pglazer.com)**
-
-**Note:** The GoDaddy link above gives you an email account hosted by Microsoft Office. Many people prefer to use gmail's interface. If you prefer to use gmail,
-follow the instructions in [this help page on Google](https://support.google.com/a/answer/33353) to set up a gmail account on your domain. Make sure you test that your account works before using it to apply for jobs.
-
-If you need help doing any of this, message an admin for advice.
 
 **Why you're doing it:** You'll be doing a lot of cold email outreach to companies when you start looking for jobs. When you do, sending an email from your personal domain gives off a strong positive impression.
 
@@ -388,13 +383,31 @@ The right way to apply online is **not** through job boards. The right way to ap
 -  You can expect a response rate of 20-30% on a good cold email
 - You can expect a response rate of 1-2% applying through a job board if you have a good resume
 
-**How to do it:** You're going to run a process, and run it over and over again. The output of that process will be an email sent to someone in a company that's hiring for ML or data science.
+**How to do it:** You're going to be running a process. The output of that process will be an email sent to someone in a company that's hiring for ML or data science.
 
-A realistic target if you're actively applying for jobs is ~3 of these emails per day. As you get better at writing them, you'll be able to send more.
+A realistic target if you're actively applying for jobs is ~3 of these emails per day. As you get better at writing them, you'll find it easier to send more.
 
-**Before you begin:**
+**Step 0: Before you begin:**
 
-1. 
+1. [Download Streak for gmail.](https://www.streak.com) Streak is a free browser extension that lets you see if an email you sent has been opened or not.
+
+2. [Install Sapling.ai.](https://sapling.ai) Sapling is a free browser extension (Chrome only) that is specifically designed to automatically proofread emails for you. It is _very_ effective.
+
+**Step 1: Find people who are hiring:**
+
+The first step is to find people who are actively hiring for their companies.
+
+**For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO directly, but you should understand that CEOs are in charge of the overall hiring objectives for their companies.
+
+If you send a CEO an email that makes you seem like a promising candidate for one of their open positions, you are helping that CEO with one of their key objectives. You are doing them a favor. (But CEOs tend to be busy, so don't take it personally if not everyone responds.)
+
+Most startup CEOs make themselves deliberately accessible over email. In fact, a startup CEO's email is usually `{CEO's first name}@{company domain}`. For example, my own company email is `edouard[at]sharpestminds[dot]com`. It's easy to guess, because I _want_ interested people to contact me.
+
+There are two big advantages to emailing a founder-CEO. First, _it's easy to find common ground with them._ You already know something the founder-CEO is passionate about: their company! After all, they wouldn't have founded that company if they weren't passionate about its mission. If you write an email that shows you're passionate about their company's mission too, they'll definitely pay attention. Finding someone with a sincere interest in your company - beyond just "I want a job" - is rarer than it seems.
+
+The second advantage of emailing a CEO is that _they can order a hiring manager to talk to you._ We're all human, and people tend to value their own time more than other people's. If you email a hiring manager directly, they have to decide right then if you're worth spending 30 minutes of _their own time_ (which they value a lot) talking to. But if you email the CEO, the CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ (which they value less) talking to. As you can imagine, they're much more likely to say yes.
+
+And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they pretty much have to talk to Bob.
 
 Under construction! 🏗
 
