@@ -525,32 +525,25 @@ We also try to help with this problem by giving companies technical ratings in o
 ### How do I follow up on an intro email?
 
 Here's a great phrase one of our earliest mentees used to use after getting an email intro from us to company XYZ:
+
 > Can you tell me more about what XYZ co is up to? What's the tightest bottleneck at the moment?
 
 ^ What a great line! It shows he's zeroing in right away on what's most important _to them_. Use it! (Adapt the wording to suit your personality. You may also have to substitute "XYZ co" for "your team at XYZ co" if XYZ co is bigger than ~20 employees.)
 
-Here's an example of an incredibly good followup to an intro email. **Your followup should probably be shorter than this**, but I like this one as an example because it nails everything you might want to say in a followup.
+Here's an example of an incredibly good followup to an intro email.
 
-> Hi Edouard,
-> Thanks for the intro!
-> (moved to BCC)
+> Hi Edouard, Thanks for the intro! (Moving to BCC)
 
-> Hi `[name]`,
-> It's great to meet you! 
+> Hi `[name]`, It's great to meet you!
+> I'd read a few online articles about `[company]`'s work, but it was going through your website and blog that really got me interested in the company.
 
-> I read a few online articles about your mission with `[company name]`, but it was your Quora post that really helped a lot of my thoughts and ideas coalesce into more definite questions.
+> A little about myself: I'm transitioning into Data Science from Data Analytics, and my most recent role was as an engineer at XYZ Industries, Canada's largest ports and logistics company. I have experience using SQL to perform data analysis on port operations datasets and suggest improvements. I was also part of the team which streamlined the freight shipment process by analysing the transit-time data, increasing the port's logistics efficiency by 45% by reducing the turn around time of trailers.
 
-> For example, what makes a person interesting, and how can you quantify whether someone would fit in a certain group? What are the best ways to facilitate meaningful interactions between humans and what are good metrics to quantify how successful the interaction was? How can a social network scale without diluting the essence of what makes it so fun? `[NOTE: These   questions are specific to the company, which is a special kind of social network.]`
+> If you want to learn a little more about me I have a website where you can find my portfolio and resume: pranavrajt.com
 
-> I'm pretty excited about the approach `[company name]` has taken to address these complicated and fascinating questions, and I would love to talk about what I can offer to help your mission.
+> I'm pretty excited about the approach `[company]` has taken to address these complicated and fascinating questions, and I would love to schedule a phone call to chat a bit about what I can offer you, and to see if I would be a good fit for your team.
 
-> A little more about me: I'm a painter (mostly watercolor), as well as a data scientist. Given these two interests, my specialty lies in taking numbers and functions and turning them into visually appealing images that convey complex ideas in a simple, and visually appealing manner.  I also have a passion for both communicating and absorbing new ideas.
-
-> If you want to learn a little more about me I have a website where you can find a blog post about me, as well as other posts about code I've written: `[link to website]`
-
-> My current project, with a SharpestMinds mentor, is taking some medium size (~7 GB, 40 columns) data and feeding it into machine learning models to predict changes in customer behavior. 
-
-> I'm pretty excited to take the skills and knowledge I have and apply them to helping to build a great social networking platform for `[company name]`. I would love to schedule a phone call to chat a bit about what I can offer to you, and to see if I would be a good fit on your team.
+> Is there a time this week or next that works best for you? I'm available on `[insert three time slots here]`
 
 > Best,
 
