@@ -401,7 +401,7 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 
 2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
 
-    - [Indeed](http://indeed.com)
+    - Obviously [Indeed](http://indeed.com), [AngelList](https://angel.co) and [GlassDoor](http://glassdoor.com)
     - [Remote ML](https://remoteml.com)
     - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs/issues/ml-jobs-newsletter-issue-20-175389?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
     - [Key Values](https://www.keyvalues.com)
