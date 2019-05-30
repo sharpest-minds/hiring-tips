@@ -393,9 +393,26 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 
 2. [Install Sapling.ai.](https://sapling.ai) Sapling is a free browser extension (Chrome only) that is specifically designed to automatically proofread emails for you. It is _very_ effective.
 
-**Step 1: Find people who are hiring:**
+3. [Install Snov.io.](https://snov.io) Snov is a freemium browser extension (Chrome only) that lets you find someone's email if you know their name and their company. You'll probably only need the free version.
 
-The first step is to find people who are actively hiring for their companies.
+**Step 1: Find companies that have roles you're interested in**
+
+1. Go on LinkedIn and search for "hiring data". Make sure to filter for `People`. You'll get a hits for people who are hiring data scientists, data engineers, and all kinds of other data roles. (You can search for "hiring machine learning" or "hiring `X`" to get similar results for roles in `X`.)
+
+2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
+
+    - [Indeed](http://indeed.com)
+    - [Remote ML](https://remoteml.com)
+    - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs/issues/ml-jobs-newsletter-issue-20-175389?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
+    - [Key Values](https://www.keyvalues.com)
+    - [Work At A Startup](http://workatastartup.com)
+
+
+3. The best thing to do is to create a spreadsheet to list the companies that are hiring that you want to apply to. Start with ~10 companies on your spreadsheet to get used to the reach-out process. You can add more later on.
+
+**Step 2: Find people in those companies who are hiring:**
+
+The second step is to find people who are actively hiring for their companies.
 
 **For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO directly, but you should understand that CEOs are in charge of the overall hiring objectives for their companies.
 
@@ -408,6 +425,8 @@ There are two big advantages to emailing a founder-CEO. First, _it's easy to fin
 The second advantage of emailing a CEO is that _they can order a hiring manager to talk to you._ We're all human, and people tend to value their own time more than other people's. If you email a hiring manager directly, they have to decide right then if you're worth spending 30 minutes of _their own time_ (which they value a lot) talking to. But if you email the CEO, the CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ (which they value less) talking to. As you can imagine, they're much more likely to say yes.
 
 And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they pretty much have to talk to Bob.
+
+**For companies of ~100-500 employees, the person you should contact is the company's VP of Engineering.** Same rules apply as for the CEO above.
 
 Under construction! 🏗
 
