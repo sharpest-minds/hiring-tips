@@ -32,24 +32,6 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 4. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
 
-# Checklist: once you hit the halfway point of your mentorship
-
-1. Make a list of all the regular, small, technical [meetups](https://www.meetup.com) in your city. Ideally something where you discuss a paper or write actual code in a workshop. Start going, even if you sit in a corner and do nothing the first couple of times. The benefit of having industry people see your face every week compounds quickly.
-
-2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** You can request warm intros to companies directly through the SharpestMinds web app.
-
-3. Start applying to jobs. Here are some good places to apply for ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
-
-   👉 Applying through [Key Values](https://www.keyvalues.com) sends a good signal to hiring managers, because they tend to attract good engineers as applicants. (Applying through Indeed sends a bad signal to hiring managers, so you shouldn't do it.)
-
-   👉 Y Combinator's [Work At A Startup](https://www.workatastartup.com) page is another great one. This lets you submit a single application to all YC companies.
-
-   👉 [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
-
-   👉 The [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) is another great place to apply for ML jobs. We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
-
-7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
-
 # Job search, part 1: creating first impressions
 
 Later on I'll cover how to reach out to companies in your job search. Before that, you need to prepare the way for yourself. In this section I'll cover how to curate your online presence to make your value obvious.
@@ -399,19 +381,18 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 
 2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
 
-    - Obviously [Indeed](http://indeed.com), [AngelList](https://angel.co) and [GlassDoor](http://glassdoor.com)
-    - [Remote ML](https://remoteml.com)
+    - The big ones: [Indeed](http://indeed.com), [AngelList](https://angel.co) and [Glassdoor](http://glassdoor.com)
+    - [Remote ML](https://remoteml.com) is a board for remote ML jobs
     - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
     - [Key Values](https://www.keyvalues.com)
     - [Work At A Startup](http://workatastartup.com)
-    - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring).
-
+    - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. You can look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring).
 
 3. The best thing to do is to create a spreadsheet to list the companies that are hiring that you want to apply to. Start with ~10 companies on your spreadsheet to get used to the reach-out process. You can add more later on.
 
 **Step 2: Find people in those companies who are hiring:**
 
-The second step is to find people who are actively hiring for their companies.
+The second step is to find people who are actively hiring for their companies. If you did a search for "hiring" in Step 1, those people are good places to start. Otherwise, the best people to start with are below.
 
 **For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
 
@@ -440,8 +421,6 @@ Here's how to find people who are hiring at their companies:
 5. Add the person's name and LinkedIn name to your spreadsheet.
 
 **Step 3: Research the people who are hiring**
-
-You're going to be emailing the
 
 Under construction! 🏗
 
@@ -603,8 +582,6 @@ The best way to think about it is this: your job is to keep applying to position
 
 ### How do I add SharpestMinds to my resume?
 
-You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. We'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your mentorship term has ended. Here's an example of how to include SharpestMinds on your resume:
+It can help to mention your mentor's company on your resume if it's well-known. We'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your mentorship term has ended. Here's an example of how to include SharpestMinds on your resume:
 
    ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
-
-**Important:** If you haven't been in the program very long (2 months or less), you should title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
