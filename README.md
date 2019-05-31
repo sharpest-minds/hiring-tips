@@ -26,31 +26,11 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 # Checklist: after you join
 
-1. If you don't have a LinkedIn account, get one. Add your mentor and every mentee you know on LinkedIn. And add [us](https://www.linkedin.com/in/e10is/) [admins](https://www.linkedin.com/in/jeremieharris/) [too](https://www.linkedin.com/in/russell-pollari-b555895a/)!
-
-2. We have a deal with [Paperspace](https://www.paperspace.com) to give every mentee $50 in free GPU credits. Use them! To get your credits, message an admin on Slack or post to the mentees channel.
+1. We have a deal with [Paperspace](https://www.paperspace.com) to give every mentee $50 in free GPU credits. Use them! To get your credits, message an admin on Slack or post to the mentees channel.
 
 3. You can also get $300 in free GCP credits (any service) via their [free tier](https://cloud.google.com/free/docs/gcp-free-tier).
 
 4. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
-
-# Checklist: once you hit the halfway point of your mentorship
-
-1. Make a list of all the regular, small, technical [meetups](https://www.meetup.com) in your city. Ideally something where you discuss a paper or write actual code in a workshop. Start going, even if you sit in a corner and do nothing the first couple of times. The benefit of having industry people see your face every week compounds quickly.
-
-2. Check out our list of hiring partners [at the bottom of this page](https://app.sharpestminds.com/mentee/companies). We can often give warm introductions to many of the companies on this list, which lets you to skip their HR screens - a big advantage. **Please keep this list confidential.** You can request warm intros to companies directly through the SharpestMinds web app.
-
-3. Start applying to jobs. Here are some good places to apply for ML jobs [that aren't generally known](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983):
-
-   👉 Applying through [Key Values](https://www.keyvalues.com) sends a good signal to hiring managers, because they tend to attract good engineers as applicants. (Applying through Indeed sends a bad signal to hiring managers, so you shouldn't do it.)
-
-   👉 Y Combinator's [Work At A Startup](https://www.workatastartup.com) page is another great one. This lets you submit a single application to all YC companies.
-
-   👉 [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. A great hack is to look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring). Instructions on how to apply to each job are included in the comments. Check it out!
-
-   👉 The [Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) is another great place to apply for ML jobs. We highly recommend subscribing: you'll get a list of ML jobs delivered to your inbox every two weeks.
-
-7. If the hiring manager whose group / company you're trying to join has a Twitter account, follow it. If they have a blog, read it. Same goes for engineers in the group / company you're trying to join.
 
 # Job search, part 1: creating first impressions
 
@@ -387,7 +367,7 @@ The right way to apply online is **not** through job boards. The right way to ap
 
 A realistic target if you're actively applying for jobs is ~3 of these emails per day. As you get better at writing them, you'll find it easier to send more.
 
-**Step 0: Before you begin:**
+**Step 0: Before you begin**
 
 1. [Download Streak for gmail.](https://www.streak.com) Streak is a free browser extension that lets you see if an email you sent has been opened or not.
 
@@ -401,32 +381,46 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 
 2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
 
-    - Obviously [Indeed](http://indeed.com), [AngelList](https://angel.co) and [GlassDoor](http://glassdoor.com)
-    - [Remote ML](https://remoteml.com)
-    - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs/issues/ml-jobs-newsletter-issue-20-175389?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
+    - The big ones: [Indeed](http://indeed.com), [AngelList](https://angel.co) and [Glassdoor](http://glassdoor.com)
+    - [Remote ML](https://remoteml.com) is a board for remote ML jobs
+    - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
     - [Key Values](https://www.keyvalues.com)
     - [Work At A Startup](http://workatastartup.com)
-
+    - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. You can look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring).
 
 3. The best thing to do is to create a spreadsheet to list the companies that are hiring that you want to apply to. Start with ~10 companies on your spreadsheet to get used to the reach-out process. You can add more later on.
 
 **Step 2: Find people in those companies who are hiring:**
 
-The second step is to find people who are actively hiring for their companies.
+The second step is to find people who are actively hiring for their companies. If you did a search for "hiring" in Step 1, those people are good places to start. Otherwise, the best people to start with are below.
 
-**For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO directly, but you should understand that CEOs are in charge of the overall hiring objectives for their companies.
+**For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
 
-If you send a CEO an email that makes you seem like a promising candidate for one of their open positions, you are helping that CEO with one of their key objectives. You are doing them a favor. (But CEOs tend to be busy, so don't take it personally if not everyone responds.)
+If you send a CEO an email and you seem like a promising candidate, _you're helping the CEO with one of their key objectives._ You are doing them a favor. (Of course not every CEO will answer you, and don't take it personally if they don't.)
 
-Most startup CEOs make themselves deliberately accessible over email. In fact, a startup CEO's email is usually `{CEO's first name}@{company domain}`. For example, my own company email is `edouard[at]sharpestminds[dot]com`. It's easy to guess, because I _want_ interested people to contact me.
+Most startup CEOs try hard to make themselves accessible over email. A startup CEO's email is usually `{CEO's first name}@{company domain}`. For example, my company email is `edouard[at]sharpestminds[dot]com`. It's easy to guess, because I want interested people to email me.
 
-There are two big advantages to emailing a founder-CEO. First, _it's easy to find common ground with them._ You already know something the founder-CEO is passionate about: their company! After all, they wouldn't have founded that company if they weren't passionate about its mission. If you write an email that shows you're passionate about their company's mission too, they'll definitely pay attention. Finding someone with a sincere interest in your company - beyond just "I want a job" - is rarer than it seems.
+You get two advantages if you email a founder-CEO. First, _it's easy to find something in common with them._ You already know something the founder-CEO is passionate about: their company! They wouldn't have founded their company if they weren't passionate about what it's doing. So if you write an email that shows them you're passionate about their company's mission too, you'll get their attention. For most CEOs, it's hard to find someone who has a sincere interest in what their company is doing - most people just reach out to them with some version of "I want a job".
 
-The second advantage of emailing a CEO is that _they can order a hiring manager to talk to you._ We're all human, and people tend to value their own time more than other people's. If you email a hiring manager directly, they have to decide right then if you're worth spending 30 minutes of _their own time_ (which they value a lot) talking to. But if you email the CEO, the CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ (which they value less) talking to. As you can imagine, they're much more likely to say yes.
+The second advantage you get by emailing a CEO is that they can **order** a hiring manager to talk to you. If you email the hiring manager, they have to decide immediately if it's worth spending 30 minutes of their own time talking to you. But if you email the CEO, from the CEO's point of view they can just kick you over to their hiring manager with a recommendation that says "this person seems worth checking out". the CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ (which they value less) talking to. As you can imagine, they're much more likely to say yes.
 
 And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they pretty much have to talk to Bob.
 
 **For companies of ~100-500 employees, the person you should contact is the company's VP of Engineering.** Same rules apply as for the CEO above.
+
+Here's how to find people who are hiring at their companies:
+
+1. Search for the company name on LinkedIn.
+
+2. Find the company and click on their company page.
+
+3. In the company page, click on "People".
+
+4. Scroll until you find the CEO or VP Engineering. If the company is big, you can also search for "VP" to narrow down the results.
+
+5. Add the person's name and LinkedIn name to your spreadsheet.
+
+**Step 3: Research the people who are hiring**
 
 Under construction! 🏗
 
@@ -588,8 +582,6 @@ The best way to think about it is this: your job is to keep applying to position
 
 ### How do I add SharpestMinds to my resume?
 
-You should mention your mentor's name and company (unless your mentor asks you not to), so that their prestige will rub off on you. We'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your mentorship term has ended. Here's an example of how to include SharpestMinds on your resume:
+It can help to mention your mentor's company on your resume if it's well-known. We'll continue to support you even after your mentorship ends, so it's correct to say on your resume that you're still at SharpestMinds, even if your mentorship term has ended. Here's an example of how to include SharpestMinds on your resume:
 
    ![How to include SharpestMinds on your resume](https://github.com/sharpest-minds/hiring-tips/blob/master/img/sm-in-resume.png)
-
-**Important:** If you haven't been in the program very long (2 months or less), you should title this, e.g., "Machine Learning Engineer (Project)" instead of just "Machine Learning Engineer". If recruiters see you've only been a Data Scientist for a month, they may wonder why you're trying to switch jobs so soon!
