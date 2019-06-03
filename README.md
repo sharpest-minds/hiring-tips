@@ -458,14 +458,18 @@ First off, I'll give you a (slightly edited) example of a good email below. This
 
 > Best,
 
+> Johnny Mentee
+
+> [johnnymentee.com](http://example.com)
+
 A few things to note about this email:
 
-- This isn't the world's best email. But it still got the job done.
 - The mentee highlights the experience he has that's **most relevant** (computer vision, because the company is building autonomous trucks) and **most impressive** (beating state of the art in brainwave and music classification).
 - The email opens with a personal compliment to the CEO. We all love getting personal compliments.
 - The email also quotes one of the CEO's own insights. This shows the mentee took the time to read something the CEO wrote.
 - The company's name was spelled correctly. Nothing destroys your chances faster than spelling a company's name wrong in an email to the CEO.
 - Most sentences are short and crisp. The mentee used [Sapling](https://sapling.ai) to proofread his email before he sent it.
+- The mentee's personal website is in his email signature. That means he doesn't need to attach his resume to the email he sends. If the CEO is curious, he can just go to the website and find links to everything he needs.
 
 I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he told me:
 
@@ -510,10 +514,6 @@ Under construction! 🏗
 9. Do this with a small handful of people at first, and you're almost guaranteed to start a productive conversation with at least one of them.
 
 10. **Important:** Don't send generic messages to a ton of people. Impersonal LinkedIn spam will *only* damage your reputation. When in doubt, ask yourself: Does this message make it obvious that I've spent more than 5 minutes investigating this person's online presence? If the answer isn't "heck yes", then keep working on your message.
-
-# Checklist: how to apply
-
-1. If there's a specific company you're interested in working with, and that company has open source projects on GitHub, it's a *very* good idea to contribute to their open source codebases. For example, if you really wanted to be hired by Uber, you could contribute to [this project](https://github.com/uber/ludwig). If you have a contribution accepted, you can and should list this on your resume under a section like "Open Source Contributions".
 
 # Checklist: how to interview
 
