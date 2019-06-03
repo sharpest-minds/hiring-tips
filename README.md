@@ -420,9 +420,56 @@ Here's how to find people who are hiring at their companies:
 
 5. Add the person's name and LinkedIn name to your spreadsheet.
 
-**Step 3: Research the people who are hiring**
+**Step 3: Research the company**
 
-Under construction! 🏗
+You're going to be emailing the people you found in **Step 2**. The kinds of people you'll be emailing get lots of email. So we want to make sure your emails stand out compared to all the other emails they receive in a given day.
+
+The recipe for that is, more or less,
+- Research the company
+- Use their product (if possible)
+- Make your email personable and specific (only possible if you've researched the company)
+- Humbly suggest some ideas
+
+This might seem like a lot of work for a single email. It is. In fact, it's enough work that almost nobody does it. But that's what makes you stand out.
+
+We generally recommend spending 30 minutes to an hour per company on research and writing the email. You might spend more time when you're starting out as you get used to the process.
+
+30 minutes to an hour might seem like a lot. But think about it this way: a good, well researched email will probably get you a response 20-30% of the time. That means even if you put in a full hour on each email, with five hours of email a day you can be receiving 1 positive response _each day_ from _very important people_ in a company.
+
+If you wanted to get one response per day from job board applications, you'd need to be applying to around _a hundred jobs every day_. Even then the responses you'd be getting would be from recruiters rather than CEOs, and much less likely to convert.
+
+**Note:** If there's a company you _really_ want to work at, it's even okay to do a 1-2 day dive, do a lot of research, and even put together a minor demo for them and link it in your email. That will definitely give you a better conversion rate. But in most cases, we find ~an hour of research is the point of diminishing returns.
+
+**Step 4: Write the email**
+
+First off, I'll give you a (slightly edited) example of a good email below. This was sent by a mentee to the CEO of a successful YC-backed robotics company. The CEO responded, and the mentee got the interview.
+
+> Hi Bob,
+
+> I've been following XYZ Robotics for a while and I've found your Medium articles very interesting. They provide a clear understanding of how XYZ Robotics is tackling the problems that the autonomous vehicle industry is currently facing. Particularly your explanation for not including LIDAR in your systems is a good reminder that you select the tools based on the problems you are solving and not the other way around.
+
+> I'm fascinated by your idea of "one step at a time" problem solving, and I would love to talk about what I can offer to your mission.
+
+> About myself, I'm a Machine Learning Researcher with the experience in signal and image processing. I've been working on the problem of brainwave classification using convolutional neural networks where I achieved a 124% performance improvement over traditional methods. This research has allowed me to keep myself updated on the CNN and computer vision literature. I'm also part of a data science mentorship program in which I've been working on achieving state-of-the-art performance for music genre classification with a Machine Learning Scientist at Amazon.
+
+> I've attached my resume, which provides a more in-depth view of my qualification and experience.
+
+> I'm excited to take the skills and knowledge I have and apply them to help make safe autonomous trucks a reality. I'd love to schedule a phone call to chat a bit about what I can offer you and to see if I will be a good fit on your team.
+
+> Best,
+
+A few things to note about this email:
+
+- This isn't the world's best email. But it still got the job done.
+- The mentee highlights the experience he has that's **most relevant** (computer vision, because the company is building autonomous trucks) and **most impressive** (beating state of the art in brainwave and music classification).
+- The email opens with a personal compliment to the CEO. We all love getting personal compliments.
+- The email also quotes one of the CEO's own insights. This shows the mentee took the time to read something the CEO wrote.
+- The company's name was spelled correctly. Nothing destroys your chances faster than spelling a company's name wrong in an email to the CEO.
+- Most sentences are short and crisp. The mentee used [Sapling](https://sapling.ai) to proofread his email before he sent it.
+
+I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he told me:
+
+> For cold-emails (and to a little extent the resume profiling as well), there is one key question I would like to answer: Am I speaking to an enthusiast who simply switched to the field because of the hype, or to someone who is genuinely passionate about the craft? For students and junior engineers, I would be interested in knowing their learning path, and if they went a little out of the way to accomplish something (eg: do a course, publish a paper, speak at a conference /meetup etc) — something as proof which can help me validate my guess as to that question.
 
 ## How to use the SharpestMinds network
 
