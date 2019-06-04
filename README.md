@@ -292,6 +292,8 @@ If you live somewhere that isn't either a major or minor tech hub, that means yo
 
 The meetup strategy is the strategy that takes the longest to convert. But minute-for-minute, it's easily the most effective. If you live in a [major](#1-you-live-in-a-major-tech-hub) or [minor](#2-you-live-in-a-minor-tech-hub) tech hub, there's no excuse not to use it.
 
+👉 **Highly recommended reading for this:** [_How to escape the resume slush pile_](https://datasciencecareermap.com/2019/05/02/how-to-escape-the-resume-slush-pile/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Includes a couple of sections with tips about networking events.
+
 **What to do:** Attend as many _high-quality_ data science-related meetups in your area as you can. Even if you have to commute for an hour to get to the meetup, it can be worth it if the meetup is good enough.
 
 High-quality meetups have most of the following properties:
@@ -377,6 +379,10 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 
 1. Go on LinkedIn and search for "hiring data". Make sure to filter for `People`. You'll get a hits for people who are hiring data scientists, data engineers, and all kinds of other data roles. (You can search for "hiring machine learning" or "hiring `X`" to get similar results for roles in `X`.)
 
+  👉 **Highly recommended reading for this:** [_My favorite job search hack_](https://datasciencecareermap.com/2019/05/04/my-favorite-job-search-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Goes into detail on specific search terms on LinkedIn that Susan has found useful in the past.
+
+  👉 **More highly recommended reading:** [_How to find the best data science jobs: The Insight hack_](https://datasciencecareermap.com/2019/05/28/how-to-find-the-best-data-science-jobs-the-insight-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). This is a strategy for finding really good data science jobs by piggybacking on the Insight Data Science Fellows who've been hired at savvy companies.
+
 2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
 
     - The big ones: [Indeed](http://indeed.com), [AngelList](https://angel.co) and [Glassdoor](http://glassdoor.com)
@@ -391,6 +397,8 @@ A realistic target if you're actively applying for jobs is ~3 of these emails pe
 **Step 2: Find people in those companies who are hiring:**
 
 The second step is to find people who are actively hiring for their companies. If you did a search for "hiring" in Step 1, those people are good places to start. Otherwise, the best people to start with are below.
+
+👉 **Highly recommended reading for this:** [_How to send a cold email: Find the right contact_](https://datasciencecareermap.com/2019/05/03/how-to-send-a-cold-email-find-the-right-contact/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Full of tips on how to find the right person, and how to get their email address even if you don't know them.
 
 **For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
 
@@ -439,6 +447,8 @@ If you wanted to get one response per day from job board applications, you'd nee
 **Note:** If there's a company you _really_ want to work at, it's even okay to do a 1-2 day dive, do a lot of research, and even put together a minor demo for them and link it in your email. That will definitely give you a better conversion rate. But in most cases, we find ~an hour of research is the point of diminishing returns.
 
 **Step 4: Write the email**
+
+👉 **You must read this first:** [_How to write a cold email_](https://datasciencecareermap.com/2019/05/09/how-to-write-a-cold-email/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). This is some of the best advice on the Internet about how to structure a great cold email to land a data science or ML job.
 
 First off, I'll give you a (slightly edited) example of a good email below. This was sent by a mentee to the CEO of a successful YC-backed robotics company. The CEO responded, and the mentee got the interview.
 
