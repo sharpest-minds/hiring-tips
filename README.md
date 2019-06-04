@@ -478,6 +478,7 @@ A few things to note about this email:
 - The company's name was spelled correctly. Nothing destroys your chances faster than spelling a company's name wrong in an email to the CEO.
 - Most sentences are short and crisp. The mentee used [Sapling](https://sapling.ai) to proofread his email before he sent it.
 - The mentee's personal website is in his email signature. That means he doesn't need to attach his resume to the email he sends. If the CEO is curious, he can just go to the website and find links to everything he needs.
+- Bonus: The mentee used [Streak](http://streak.com) to confirm that the CEO had actually opened his email.
 
 I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he told me:
 
