@@ -400,7 +400,7 @@ The second step is to find people who are actively hiring for their companies. I
 
 👉 **Highly recommended reading for this:** [_How to send a cold email: Find the right contact_](https://datasciencecareermap.com/2019/05/03/how-to-send-a-cold-email-find-the-right-contact/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Full of tips on how to find the right person, and how to get their email address even if you don't know them.
 
-**For companies of ~100 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
+**For companies of ~50 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
 
 If you send a CEO an email and you seem like a promising candidate, _you're helping the CEO with one of their key objectives._ You are doing them a favor. (Of course not every CEO will answer you, and don't take it personally if they don't.)
 
@@ -408,11 +408,11 @@ Most startup CEOs try hard to make themselves accessible over email. A startup C
 
 You get two advantages if you email a founder-CEO. First, _it's easy to find something in common with them._ You already know something the founder-CEO is passionate about: their company! They wouldn't have founded their company if they weren't passionate about what it's doing. So if you write an email that shows them you're passionate about their company's mission too, you'll get their attention. For most CEOs, it's hard to find someone who has a sincere interest in what their company is doing - most people just reach out to them with some version of "I want a job".
 
-The second advantage you get by emailing a CEO is that they can **order** a hiring manager to talk to you. If you email the hiring manager, they have to decide immediately if it's worth spending 30 minutes of their own time talking to you. But if you email the CEO, from the CEO's point of view they can just kick you over to their hiring manager with a recommendation that says "this person seems worth checking out". the CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ (which they value less) talking to. As you can imagine, they're much more likely to say yes.
+The second advantage you get by emailing a CEO is that it's easier for them to make a quick decision about you. If you email the hiring manager, they have 10 seconds to decide if it's worth spending another 30 minutes of their own time talking to you. But if you email the CEO, from the CEO's point of view they can just kick you over to their hiring manager with a recommendation that says "this person seems worth checking out". The CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ talking to. As you can imagine, they're much more likely to say yes.
 
-And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they pretty much have to talk to Bob.
+And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they are much more likely to talk to Bob.
 
-**For companies of ~100-500 employees, the person you should contact is the company's VP of Engineering.** Same rules apply as for the CEO above.
+**For companies of ~50-500 employees, the person you should contact is _either_ the company's VP of Engineering _or_ the company's Director of Data (or a similar title).** Same reasons apply as for the CEO above, except you should keep in mind that no one will be quite as personally invested in the company's mission as the CEO is.
 
 Here's how to find people who are hiring at their companies:
 
@@ -452,7 +452,7 @@ If you wanted to get one response per day from job board applications, you'd nee
 
 First off, I'll give you a (slightly edited) example of a good email below. This was sent by a mentee to the CEO of a successful YC-backed robotics company. The CEO responded, and the mentee got the interview.
 
-> Hi Bob,
+> Hi Ron,
 
 > I've been following XYZ Robotics for a while and I've found your Medium articles very interesting. They provide a clear understanding of how XYZ Robotics is tackling the problems that the autonomous vehicle industry is currently facing. Particularly your explanation for not including LIDAR in your systems is a good reminder that you select the tools based on the problems you are solving and not the other way around.
 
@@ -466,9 +466,9 @@ First off, I'll give you a (slightly edited) example of a good email below. This
 
 > Best,
 
-> Johnny Mentee
+> Bob Mentee
 
-> [johnnymentee.com](http://example.com)
+> [bobmentee.com](http://example.com)
 
 A few things to note about this email:
 
@@ -482,7 +482,31 @@ A few things to note about this email:
 
 I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he told me:
 
-> For cold-emails (and to a little extent the resume profiling as well), there is one key question I would like to answer: Am I speaking to an enthusiast who simply switched to the field because of the hype, or to someone who is genuinely passionate about the craft? For students and junior engineers, I would be interested in knowing their learning path, and if they went a little out of the way to accomplish something (eg: do a course, publish a paper, speak at a conference /meetup etc) — something as proof which can help me validate my guess as to that question.
+> For cold emails (and to a little extent the resume profiling as well), there is one key question I would like to answer: Am I speaking to an enthusiast who simply switched to the field because of the hype, or to someone who is genuinely passionate about the craft? For students and junior engineers, I would be interested in knowing their learning path, and if they went a little out of the way to accomplish something (eg: do a course, publish a paper, speak at a conference /meetup etc) — something as proof which can help me validate my guess as to that question.
+
+**Step 5: Send a _polite_ follow up**
+
+If you don't hear back from the person you've emailed within a week, send a polite follow up email. This should be sent as a reply to your first email, to ensure both show up in the same message thread.
+
+Here's a good example of one:
+
+> Hi Ron,
+
+> I just wanted to quickly follow up with you in case my previous email got buried. Did you have any thoughts or feedback on whether my skills and interests might fit into your team?
+
+> Whatever happens, I wanted you to know that what [your company / group] are working on has been a real source of inspiration for me. If I can be of any help whatsoever going forward, let me know!
+
+> Bob Mentee
+
+> [bobmentee.com](http://example.com)
+
+Notice that we include a warm compliment in the second paragraph. You should change this compliment to suit your own personality and match your feelings about the company or group. Sincere compliments seem to generate far more responses than generic ones.
+
+If you don't hear back from your follow-up email after one week, you don't need to give up on the company. Just pick someone further down in the company hierarchy, and repeat the process. Obviously you'll have to re-customize the outreach email to this new person.
+
+For example, you can email the CEO on Week 1, follow up with the CEO on Week 2; email the VP Eng on Week 3, follow up with the VP Eng on Week 4; and email the hiring manager on Week 5, and follow up with the hiring manager on Week 6.
+
+Obviously you should be running this process with _lots_ of companies at the same time, otherwise it would take you forever to get hired at this rate. If you're going full-out on job applications, you should be targeting ~25-30 emails like this each week. You can be allocating 30-45 minutes of research per email. It may take you a couple of weeks to ramp up your email frequency to this level, but it's **very much** worth aiming for.
 
 ## How to use the SharpestMinds network
 
