@@ -500,9 +500,13 @@ Here's a good example of one:
 
 > [bobmentee.com](http://example.com)
 
-Notice that we include a warm compliment in the second paragraph. You should change this compliment to suit your own personality and match your feelings about their company or group. Sincere compliments seem to generate more responses than insincere ones.
+Notice that we include a warm compliment in the second paragraph. You should change this compliment to suit your own personality and match your feelings about the company or group. Sincere compliments seem to generate far more responses than generic ones.
 
+If you don't hear back from your follow-up email after one week, you don't need to give up on the company. Just pick someone further down in the company hierarchy, and repeat the process. Obviously you'll have to re-customize the outreach email to this new person.
 
+For example, you can email the CEO on Week 1, follow up with the CEO on Week 2; email the VP Eng on Week 3, follow up with the VP Eng on Week 4; and email the hiring manager on Week 5, and follow up with the hiring manager on Week 6.
+
+Obviously you should be running this process with _lots_ of companies at the same time, otherwise it would take you forever to get hired at this rate. If you're going full-out on job applications, you should be targeting ~25-30 emails like this each week. You can be allocating 30-45 minutes of research per email. It may take you a couple of weeks to ramp up your email frequency to this level, but it's **very much** worth aiming for.
 
 ## How to use the SharpestMinds network
 
