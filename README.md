@@ -150,6 +150,7 @@ The next steps involve subjecting your resume to multiple rounds of review. 🚨
 **Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
 
 **[Here's an example of a great resume. (Thanks, Pierre Damiba! 🙌)](https://drive.google.com/open?id=1EiRnV15xcVvhSojNNO4J0WFNvR_VWQmK)**
+**[And here's another excellent resume. (Thanks, Perry Johnson! 🙌)](https://drive.google.com/open?id=1mSchLDG8qXqExpbqWeNZ1Q_QCJvPk5Ep)**
 
 **Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
 
