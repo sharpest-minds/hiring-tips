@@ -1,11 +1,12 @@
 # hiring-tips
-Compendium of tips on how to get hired in ML / data science via your mentorship. Includes tools &amp; links. **Please keep this repo confidential.**
+
+Comprehensive guide on how to get hired in ML / data science via your mentorship. Includes tools and links. **Please keep this repo confidential.**
 
 In addition to what's below, you'll find more useful information on [our blog page](https://www.sharpestminds.com/blog).
 
 ### What you'll find here
 
-- [What to do after you join](#checklist-after-you-join)
+- [Deals you can get](#deals-you-can-get)
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
   - [Your personal website and email address](#your-personal-website-and-email-address)
   - [Your GitHub](#your-github-profile)
@@ -16,19 +17,18 @@ In addition to what's below, you'll find more useful information on [our blog pa
   - [What job search strategy should I use?](#what-job-search-strategy-should-i-use)
   - [How to apply offline](#how-to-apply-offline)
   - [How to apply online](#how-to-apply-online)
+  - [How to use the SharpestMinds network](#how-to-use-the-sharpestminds-network)
 - [How to hunt for jobs at a job fair](#checklist-at-a-networking-event-or-job-fair)
 - [How to connect with hiring managers on LinkedIn](#checklist-how-to-network-on-linkedin)
 - [How to prep for interviews](#checklist-how-to-interview)
 - [🌍 Special deals for internationals](#-if-you-are-not-a-us-or-canadian-citizen-or-permanent-resident)
 - [Answers to other general questions!](#random-faq)
 
-# Checklist: after you join
+# Deals you can get
 
 1. We have a deal with [Paperspace](https://www.paperspace.com) to give every mentee $50 in free GPU credits. Use them! To get your credits, message an admin on Slack or post to the mentees channel.
 
-3. You can also get $300 in free GCP credits (any service) via their [free tier](https://cloud.google.com/free/docs/gcp-free-tier).
-
-4. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
+2. You can also get $300 in free GCP credits (any service) via their [free tier](https://cloud.google.com/free/docs/gcp-free-tier).
 
 # Job search, part 1: creating first impressions
 
@@ -316,7 +316,7 @@ B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhe
 
 1. [Go to meetup.com and search for tech meetups near your area.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is right.
 
-2. Start going to meetups. Start by casting a wide net: go to as many data science-related meetups as you can. It's very hard to tell which ones are good without going there in person.
+2. Start going to meetups. Start by casting a wide net: go to as many data science-related meetups as you can. It's very hard to tell which ones are good without going there in person. Look especially for technical meetups hosted by growing startups who want to build a community around themselves.
 
 3. Stop going to the lame meetups. After you've been to a few, the lame meetups will seem lame; stop going to them. If you aren't sure, evaluate the meetups using the criteria in the **What to do** section above.
 
@@ -428,6 +428,8 @@ Here's how to find people who are hiring at their companies:
 
 5. Add the person's name and LinkedIn name to your spreadsheet.
 
+**Important:** Whatever you do, **don't** email someone in human resources. [HR staff are not trained to evaluate you based on your technical merits,](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983) and contacting them is almost guaranteed to be a waste of your time. You can tell if someone is in HR if their job title on LinkedIn is something like "Talent Acquisition Partner", "Recruitment Coordinator", "HR Director", "Head of People", or generally any title with the keywords "talent", "recruitment", "people", or "human resources / HR". **Avoid them.**
+
 **Step 3: Research the company**
 
 You're going to be emailing the people you found in **Step 2**. The kinds of people you'll be emailing get lots of email. So we want to make sure your emails stand out compared to all the other emails they receive in a given day.
@@ -512,7 +514,17 @@ Obviously you should be running this process with _lots_ of companies at the sam
 
 ## How to use the SharpestMinds network
 
-Under construction! 🏗
+A few tips on how to leverage SM's network for maximum benefit:
+
+1. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
+
+2. If you plan to reach out to someone by email or via LinkedIn, let us know who it is! We can try to connect with them on LinkedIn so that they see our announcements. This often makes folks more receptive to interviewing SharpestMinds students.
+
+3. When requesting warm intros through the hiring partners system, make sure to pick companies that you're sincerely interested in. It isn't worth wasting a warm intro on an informational interview.
+
+4. When requesting an intro through the hiring parnters system, **do not apply online** before the intro. This changes the frame from "here's a smart person I know" to "here's someone trying to get an edge in their job application". Applying online first significantly reduces the chance of an intro converting.
+
+5. There are hundreds of world-class data scientists and machine learning engineers in our Slack workspace. If you have a question that you can't find the answer to online, Slack is probably the best place to ask it.
 
 # Checklist: at a networking event or job fair
 
