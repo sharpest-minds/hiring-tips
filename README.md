@@ -92,6 +92,8 @@ Here's a checklist of the bare minimum your GitHub account should have:
 
 **[Here's an example of a great GitHub profile. (Thanks, Jamel Thomas! 🙌)](https://github.com/thom1178)**
 
+**[And here's another example of a great GitHub profile. (Thanks, Raj Singh! 🙌)](https://github.com/rajs96)**
+
 ## Your resume
 
 As you gain more experience, your resume will matter less and less. But early on, it matters a lot.
