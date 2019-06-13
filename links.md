@@ -39,6 +39,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - A Google Doc by our very own [Amber Teng](https://twitter.com/ambervteng) listing interview questions in all kinds of different topics: https://docs.google.com/document/d/1xmb5CLm4CZarhpThgB6PCn8vKS2UzcNsAticWxXBZ94 (⭐️⭐️⭐️⭐️⭐️)
 - List of ML interview questions: https://www.springboard.com/blog/machine-learning-interview-questions/
 - Google AI interview questions: https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae
+- How to bomb an interview and still get the job: https://datasciencecareermap.com/2019/06/06/how-to-bomb-an-interview-and-still-get-the-job/  (⭐️⭐️⭐️⭐️⭐️)
 
 ## Good writing
 
