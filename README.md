@@ -6,13 +6,13 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 ### What you'll find here
 
-- [Deals you can get](#deals-you-can-get)
+- [Special deals](#special-deals)
 - [Job search, part 1: creating first impressions](#job-search-part-1-creating-first-impressions)
-  - [Your personal website and email address](#your-personal-website-and-email-address)
-  - [Your GitHub](#your-github-profile)
   - [Your resume](#your-resume)
-  - [Your LinkedIn](#your-linkedin-profile)
-  - [Your Twitter](#your-twitter-account)
+  - [Your LinkedIn profile](#your-linkedin-profile)
+  - [Your GitHub profile](#your-github-profile)
+  - [Your personal website and email address](#your-personal-website-and-email-address)
+  - [Your Twitter account](#your-twitter-account)
 - [Job search, part 2: job application strategy](#job-search-part-2-job-application-strategy)
   - [What job search strategy should I use?](#what-job-search-strategy-should-i-use)
   - [How to apply offline](#how-to-apply-offline)
@@ -24,7 +24,7 @@ In addition to what's below, you'll find more useful information on [our blog pa
 - [🌍 Special deals for internationals](#-if-you-are-not-a-us-or-canadian-citizen-or-permanent-resident)
 - [Answers to other general questions!](#random-faq)
 
-# Deals you can get
+# Special deals
 
 1. We have a deal with [Paperspace](https://www.paperspace.com) to give every mentee $50 in free GPU credits. Use them! To get your credits, message an admin on Slack or post to the mentees channel.
 
@@ -32,13 +32,159 @@ In addition to what's below, you'll find more useful information on [our blog pa
 
 # Job search, part 1: creating first impressions
 
-Later on I'll cover how to reach out to companies in your job search. Before that, you need to prepare the way for yourself. In this section I'll cover how to curate your online presence to make your value obvious.
+[In Part 2,](#job-search-part-2-job-application-strategy) I'll cover how to reach out to companies in your job search. But before you do that, you need to prepare the way for yourself. In this part I'll cover how to curate your online presence to make your value obvious to companies.
 
-The more obvious your value is, the more receptive companies will be when you reach out to them, and the easier they'll be to negotiate with. If you follow the advice in this section properly, you might even find recruiters start to reach out to you. (Don't let that go to your head - a recruiter reaching out isn't that valuable by itself. It's just a sign you're on the right track.)
+The more obviously valuable you are, the more likely that companies will answer when you reach out to them, and the easier they'll be to negotiate with. For the kinds of jobs we're interested in, you'll need to mare sure your [resume](#your-resume), your [LinkedIn](#your-linkedin-profile), and your [GitHub](#your-github-profile) are flawless 👌. Having [a personal website](#your-personal-website-and-email-address) will also help you **a lot**, but you can probably find a job even if you don't have one.
+
+If you follow the advice in this section properly, you might find that recruiters start to reach out to you. If that happens, don't let it go to your head. By itself, a recruiter reaching out isn't that valuable. Just think of it as a sign you're on the right track.
+
+## Your resume
+
+Once you're experienced, your resume won't matter that much. But when you're breaking into an industry, it matters a lot. It's worth putting a _significant amount of work_ into making sure your resume is excellent.
+
+Some resume mistakes can kill an application completely. **Spelling, grammar, or punctuation mistakes are deadly** because hiring managers interpret them as meaning that you lack attention to detail. That isn't fair, particularly if English isn't your first language. But it's the way it is.
+
+**What to do:** Put together or update your resume. Make sure it's geared towards data science roles.
+
+Here's a list of common mistakes I see in resumes, plus a rating of how bad they are, either 😑 (annoying) or ☠️ (deadly). Avoid them:
+
+- Spelling mistakes ☠️
+- Inconsistent formatting 😑
+- So much text I can't get through it to read the important parts 😑
+- Including a picture of yourself 😑
+- Gaps in your timeline so I can't tell what you were doing during some time period ☠️
+- Not ordering your timeline chronologically 😑
+- Listing Microsoft Office / Excel as one of your skills ☠️
+- Listing MNIST, the Titanic dataset, or another generic project in your list of projects ☠️
+- Submitting your resume in any format other than a PDF ☠️
+- Including a detailed description of your graduate thesis if it isn't directly ML-related 😑
+- Including a list of publications if they aren't ML-related 😑
+- Mentioning that you have "communication skills" 😑
+- Having a resume that is 1 page long plus one sentence, instead of _either_ 1 page long or 1.5-2 pages long 😑
+
+And here's a list of things you can do to make your resume stronger, with a rating of how good they are, either 🙌 (solid) or 🎉 (amazing). Do all of these:
+
+- [Include SharpestMinds in your resume under Experience](#how-do-i-add-sharpestminds-to-my-resume) 🙌
+- Make sure your Skills section is at the top of the resume 🙌
+- Divide your skills into "Advanced" skills and "Experience with" skills 🙌
+- If you've had technical or business jobs before, list your dollar contributions to them (e.g., increase revenues by X%, reduced costs by $Y) 🎉
+- In your Skills section, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series) 🙌
+- Provide GitHub links to your best projects 🎉
+- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🎉
+- Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
+
+> 👉 **Highly recommended reading for this:** [_Resume mistake bingo_](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e) by [Avishalom Shalit](https://medium.com/@avishalom). A bingo card full of common resume mistakes.
+
+> 👉 **Also highly recommended:** [_The 4 fastest ways not to get hired as a data scientist_](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e) by [Jeremie Harris](http://twitter.com/jeremiecharris). The four most deadly mistakes you can make on your resume.
+
+**How to do it:**
+
+(If you already have a resume, skip the first 2 steps.)
+
+1.  Start by picking a format. You can use a free resume template like [this one.](http://zokidesign.com/portfolio/free-resume-template/)
+
+2. Start filling in the sections. [This template](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit) should you a good idea of what content to include. (Warning: the content in that example is good, but its format is terrible. Don't make your resume look like this.)
+
+3. (Optional) If you're brave enough, post your resume to the [#roastmyresume](https://sm-mentorship.slack.com/messages/CG8T413BM/) channel on SharpestMinds Slack and let us tear it apart!
+
+4. Scroll to the "What to do" section above. Go through all the common mistakes (😑, ☠️) and improvements (🙌, 🎉) I've listed. Eliminate the mistakes, and add the improvements.
+
+5. As your _last_ step, you can ask your mentor to take a look at your resume and offer some final advice.
+
+**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
+
+**[Here's an example of a great resume. (Thanks, Pierre Damiba! 🙌)](https://drive.google.com/open?id=1EiRnV15xcVvhSojNNO4J0WFNvR_VWQmK)**
+
+**[And here's another excellent resume. (Thanks, Perry Johnson! 🙌)](https://drive.google.com/open?id=1mSchLDG8qXqExpbqWeNZ1Q_QCJvPk5Ep)**
+
+**Why you're doing it:** If you're trying to get your first job in data science or ML, your resume will be the most important single document you create. It's worth spending time on.
+
+## Your LinkedIn profile
+
+You probably have a LinkedIn account already. If you don't have one yet, get one.
+
+**What to do:** Create or update your LinkedIn account. You should think about your LinkedIn profile the same way an ambitious person thinks about what to wear in an office: _dress for the job you want, not the job you have._
+
+Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mistakes as either 😑 (annoying) or ☠️ (deadly):
+
+- Spelling mistakes ☠️
+- Weird capitalization of your own name, e.g., "BOB JOHNSON" or "bob johnson" ☠️
+- **Not** having a profile picture 😑
+- Having a profile picture that looks like a mugshot ☠️
+- Gaps in your timeline of education or experience 😑
+- Mentioning that you have "communication skills" 😑
+- Saying you have experience in "IT" (say "software engineering" instead, or another synonym) ☠️
+- Calling yourself an "aspiring" data scientist ☠️
+- Having a recent comment on _someone else's_ LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
+- Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst" ☠️
+
+And here's a list of ways of strengthening your LinkedIn profile. Some are solid (🙌) and some are amazing (🎉):
+
+- Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes you best 🎉
+- Make sure you're smiling in your profile picture 🙌
+- Have an About section 🎉
+- Use "I" language in your About section. Example: "I'm a data scientist who loves working on real world problems that catch my interest. A few things I've worked on: a recommender system for food based on genome, a fake news detection model that beats the state of the art, a full stack iOS app for an amazing e-commerce company that eventually drove 30% of all sales." 🎉
+- In your About section, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiters will find you based on these keywords! 🎉
+- Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🙌
+- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
+- Write in short sentences, with one idea per sentence 🎉
+
+**How to do it:**
+
+(If you already have a LinkedIn profile, skip the first step.)
+
+1.  Create your [LinkedIn](http://linkedin.com) profile. Make sure it's connected to an email account that you check regularly.
+
+2. Scroll to the "What to do" section above. Go through all the common mistakes (😑, ☠️) and improvements (🙌, 🎉) I've listed. Eliminate the mistakes, and add the improvements.
+
+3. As your _last_ step, you can ask your mentor to take a look at your LinkedIn and offer you some final advice.
+
+**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
+
+**[Here's an example of a great LinkedIn profile. (Thanks, Swapnil Joshi! 🙌)](https://www.linkedin.com/in/swapnilrjoshi/)**
+
+**Why you're doing it:** You're going to be reaching out to a lot of hiring managers and CEOs on LinkedIn. When you do, the first thing those hiring managers and CEOs will do is look at your LinkedIn profile.
+
+## Your GitHub profile
+
+GitHub is where you show off the substance of the projects you've worked on; not just explaining them, but showing the quality of your code. :octocat:
+
+**What to do:** If you don't have a GitHub account, get one. Don't feel bad if it's empty at first. It's _far_ better to have a single project that you're diving deep on than to have 20 projects that are all forks with 1 commit each.
+
+Here's a list of mistakes I see often in GitHub profiles. I've rated these mistakes as either 😑 (annoying) or ☠️ (deadly):
+
+- Not having a profile picture of yourself 😑
+- Having a bunch of forked repos that you haven't made commits to in your Overview ☠️
+- Having only trivial projects (e.g., Titanic dataset, MNIST) in your Overview ☠️
+- The README in your best project is one line long and doesn't explain the project in depth 😑
+- Having a tagline in your profile where you call yourself an "aspiring" data scientist ☠️
+
+And here's a list of ways of strengthening your GitHub profile. Some are solid (🙌) and some are amazing (🎉):
+
+- Having a profile picture of yourself that matches the profile pics you use on other professional networks (LinkedIn especially) 🙌
+- Only pinning repos to your Overview that you _want_ hiring managers to look at 🎉
+- Including README files for each project in your Overview, with clear explanations. This is where to include links to the project's Medium articles, your personal website, or a running version of the project app! 🎉
+- If you have a project you're actively working on, include a log in the README of the changes you've made, along with their dates, to give a sense of activity 🎉
+
+**How to do it:**
+
+1. If you don't already have a GitHub account, [create one](http://github.com).
+
+2. Add a profile pic of yourself that matches the profile pics you use on other professional networks (LinkedIn especially).
+
+3. Scroll to the "What to do" section above. Go through all the common mistakes (😑, ☠️) and improvements (🙌, 🎉) I've listed. Eliminate the mistakes, and add the improvements.
+
+4. Add your SharpestMinds mentorship project to your GitHub. This should be one of the projects you're going deep on, so include lots of detail, explanations, and ideally images.
+
+**Why you're doing it:** At some point during your job application process to _any_ company, some technical person is going to look at your GitHub profile.
+
+**[Here's an example of a great GitHub profile. (Thanks, Jamel Thomas! 🙌)](https://github.com/thom1178)**
+
+**[And here's another example of a great GitHub profile. (Thanks, Raj Singh! 🙌)](https://github.com/rajs96)**
 
 ## Your personal website and email address
 
-When you apply for jobs, never use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** your email address is something like firstname.lastname@gmail.com. It's much better to have an email at your own domain, and to host a personal website at that domain. Your personal website can be very simple, but it does need to exist.
+When you apply for jobs, you shouldn't use Yahoo or Hotmail as your email account. Gmail _can be okay_, but **only** if your email address is something like firstname.lastname@gmail.com. It's much better to have an email at your own domain, and to host a personal website at that domain. Your personal website can be very simple, but it does need to exist.
 
 **What to do:** Buy your own domain name and set up a website and email account on it.
 
@@ -50,7 +196,7 @@ Your personal website only needs to have 3.5 things on it:
 
 - A one-line blurb that describes you.
 
-- Links to your other online profiles (GitHub, LinkedIn, Twitter, Medium).
+- Links to your other online profiles (GitHub, LinkedIn, Twitter, Medium, etc.).
 
 - (Optional but recommended) A nice picture of yourself.
 
@@ -64,152 +210,11 @@ That's it. You can add other things too, if you want. Just make sure those 3 thi
 
 **Why you're doing it:** You'll be doing a lot of cold email outreach to companies when you start looking for jobs. When you do, sending an email from your personal domain gives off a strong positive impression.
 
-If the person who receives your email is even slightly interested in talking to you, there's also a good chance they'll also navigate to your personal website if they see a link to it. This puts you in a very strong position, because it means you don't need to sell yourself in your initial email. Your initial email only needs to make them curious; and you can let your website do the rest.
-
-## Your GitHub profile
-
-GitHub is where the rubber hits the road. It's where you show off the real meat of the projects you've done: not just explaining them, but showing the quality of your code. :octocat:
-
-**What to do:** If you don't have a GitHub account, get one. Don't feel bad if it's empty at first. It's _far_ better to have a single project that you're diving deep on than to have 20 projects that are all forks with 1 commit each.
-
-Here's a checklist of the bare minimum your GitHub account should have:
-- A repository for each of the projects you've done
-- A README file for each of your projects with a clear explanation of what it does and how to run it
-- Bonus points: A link to a URL where I can test a demo version of your project
-- Bonus points: If this is your mentorship project, include a log in the README of the changes you're making, along with the dates. This makes it obvious your project is under active development
-
-**How to do it:**
-
-1. If you don't already have a GitHub account, [create one](http://github.com).
-
-2. Add a profile pic of yourself that matches the profile pics you use on other professional networks (LinkedIn especially).
-
-3. Run through the checklist in the **What to do** section above and make sure you implement everything on there.
-
-4. Add your SharpestMinds mentorship project to your GitHub. This should be one of the projects you're going deep on, so include lots of detail, explanations, and ideally pictures.
-
-**Why you're doing it:** It's basically guaranteed that at some point during your job application process to _any_ company, someone technically capable is going to look at your GitHub profile. So make sure it looks good.
-
-**[Here's an example of a great GitHub profile. (Thanks, Jamel Thomas! 🙌)](https://github.com/thom1178)**
-
-**[And here's another example of a great GitHub profile. (Thanks, Raj Singh! 🙌)](https://github.com/rajs96)**
-
-## Your resume
-
-As you gain more experience, your resume will matter less and less. But early on, it matters a lot.
-
-**What to do:** Put together or update your resume. Make sure it's geared towards data science roles.
-
-Here's a list of common mistakes I see in resumes, plus a rating of how bad they are, either 😑 (annoying) or ☠️ (deadly). Avoid them:
-
-- Spelling mistakes ☠️
-- Inconsistent formatting 😑
-- So much text I can't get through it to read the important parts 😑
-- Including a picture of yourself 😑
-- Gaps in your timeline so I can't tell what you were doing during some time period ☠️
-- Not ordering your timeline chronologically 😑
-- Listing Microsoft Office as one of your skills ☠️
-- Listing MNIST, the Titanic dataset, or another generic project in your list of projects ☠️
-- Submitting your resume in any format other than a PDF ☠️
-- Including a detailed description of your graduate thesis if it isn't directly ML-related 😑
-- Including a list of publications if they aren't ML-related 😑
-- Mentioning that you have "communication skills" 😑
-- Having a resume that is 1 page long plus one sentence, instead of _either_ 1 page long or 1.5 pages long 😑
-
-And here's a list of things you can do to make your resume stronger, with a rating of how good they are, either 🙌 (solid) or 🎉 (amazing). Do all of these:
-
-- [Include SharpestMinds in your resume under Experience](#how-do-i-add-sharpestminds-to-my-resume) 🎉
-- Make sure your Skills section is at the top of the resume 🙌
-- Divide your skills into "advanced" skills and "experience with" skills 🙌
-- If you've had technical or business jobs before, list your dollar contributions to them (e.g., increase revenues by X%, reduced costs by $Y) 🎉
-- List a few ML data types you're familiar working with (e.g., NLP, computer vision, time series) 🙌
-- Provide GitHub links to your best projects 🙌
-- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🎉
-- Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
-
-**How to do it:**
-
-(If you already have a resume, skip the first 2 steps.)
-
-1.  Start by picking a format. You can use a free resume template like [this one.](http://zokidesign.com/portfolio/free-resume-template/)
-
-2. Start filling in the sections. [This template](https://docs.google.com/document/d/1nN8ruroM-Msu8zyFz9rQlzoCjzv6GD5YI8PzP9DJTKc/edit) should you a good idea of what content to include. (Warning: the content in that example is good, but its format is terrible. Don't make your resume look like this.)
-
-The next steps involve subjecting your resume to multiple rounds of review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
-
-3. Navigate to [this link](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e). Go through all 24 mistakes on the list and **eliminate them from your resume.**
-
-4. Navigate to [this link](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e). Go through all 4 mistakes on the list and **eliminate them from your resume.**
-
-5. Scroll back up to the "What to do" section above. Go through all the common mistakes I've listed (😑, ☠️) and **eliminate them from your resume.**
-
-6. Scroll back up _again_ to the "What to do" section above. Go through all the improvements I've listed (🙌, 🎉) and **add them to your resume.**
-
-7. Post your resume to the [#roastmyresume](https://sm-mentorship.slack.com/messages/CG8T413BM/) channel on SharpestMinds Slack and let us tear it apart!
-
-8. As your _last_ step, ask your mentor to take a look at your resume and offer some final advice.
-
-**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
-
-**[Here's an example of a great resume. (Thanks, Pierre Damiba! 🙌)](https://drive.google.com/open?id=1EiRnV15xcVvhSojNNO4J0WFNvR_VWQmK)**
-
-**[And here's another excellent resume. (Thanks, Perry Johnson! 🙌)](https://drive.google.com/open?id=1mSchLDG8qXqExpbqWeNZ1Q_QCJvPk5Ep)**
-
-**Why you're doing it:** If you're trying to get your first job in data science or ML, your resume might be the single most important document you'll create to help you do that. It's worth spending lots of time on it to make it good.
-
-## Your LinkedIn profile
-
-You probably have a LinkedIn account already. If you don't have one yet, get one.
-
-**What to do:** Create or polish your LinkedIn account. You should think about your LinkedIn profile the same way an ambitious person thinks about what to wear in an office: _dress for the job you want, not the job you have._
-
-Here's a list of mistakes I see often in LinkedIn profiles. I've rated these mistakes as either 😑 (annoying) or ☠️ (deadly). Some of the mistakes are the same as the ones in the resume section and some are different. To avoid:
-
-- Spelling mistakes ☠️
-- Weird capitalization of your own name, e.g., "BOB JOHNSON" ☠️
-- **Not** having a profile picture 😑
-- Having a profile picture that looks like a mugshot ☠️
-- Gaps in your timeline of education or experience 😑
-- Mentioning that you have "communication skills" 😑
-- Mentioning your experience in "IT" (say "software engineering" instead, or another synonym if it applies) ☠️
-- Calling yourself an "aspiring" data scientist ☠️
-- Having recently commented on someone else's LinkedIn post along the lines of "I sent you a message yesterday. Please respond!!!" Your comment history is **immediately** visible on your profile and this makes you look desperate ☠️
-- Long taglines in your profile, e.g., "Graduated | Actively looking for openings in startups and internships | Software, Machine learning, IT, Data Analyst" ☠️
-
-And here's a list of ways of strengthening your LinkedIn profile. Many of these are the same as for your resume; some are solid (🙌) and some are amazing (🎉). Do these all:
-
-- Give yourself a tagline that looks like a job title, e.g., "Data Scientist", "Machine Learning Engineer", or "Machine Learning Researcher", depending on what describes your project best 🎉
-- Make sure you're smiling in your profile picture 🙌
-- Have an About section 🎉
-- Use "I" language in your About section. Example: "I'm a data scientist who loves working on real world problems that catch my interest. A few things I've worked on: a recommender system for food based on genome, a fake news detection model that beats the state of the art, a fullstack iOS app for an amazing ecommerce company that eventually drove 30% of all sales." 🙌
-- In your About section, list a few ML data types you're familiar working with (e.g., NLP, computer vision, time series). Recruiters will find you based on these keywords! 🎉
-- Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🎉
-- If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
-- Write in short sentences, with one idea per sentence 🎉
-
-**How to do it:**
-
-(If you already have a LinkedIn profile, skip the first step.)
-
-1.  Create your [LinkedIn](http://linkedin.com) profile. Make sure it's connected to an email account that you check regularly.
-
-The next steps involve subjecting your LinkedIn to multiple rounds of review. 🚨🚨 **Don't skip any of these steps, even if some of them overlap with each other:**
-
-2. Scroll back up to the "What to do" section above. Go through all the common mistakes I've listed (😑, ☠️) and **eliminate them from your resume.**
-
-3. Scroll back up _again_ to the "What to do" section above. Go through all the improvements I've listed (🙌, 🎉) and **add them to your resume.**
-
-4. As your _last_ step, ask your mentor to take a look at your LinkedIn and offer you some final advice.
-
-**Tip:** to fix spelling and grammar, download [Grammarly](https://www.grammarly.com) and the [Sapling.ai](https://sapling.ai) Chrome extension and run them _both_ over your resume. Start with Grammarly first, then use Sapling. Grammarly and Sapling catch different kinds of mistakes, but Sapling is better than Grammarly so it should be used last.
-
-**[Here's an example of a great LinkedIn profile. (Thanks, Swapnil Joshi! 🙌)](https://www.linkedin.com/in/swapnilrjoshi/)**
-
-**Why you're doing it:** You're going to be reaching out to hiring managers and CEOs on LinkedIn _a lot_. When you do, those hiring managers and CEOs will look at your profile as the first thing they do. So make sure it's bulletproof!
+If the person who receives your email is even slightly interested in talking to you, there's also a good chance they'll also navigate to your personal website if they see a link to it. This puts you in a strong position because you don't have to sell yourself so hard in your initial email. Your initial email only needs to make them curious; you can let your website do the rest.
 
 ## Your Twitter account
 
-Twitter isn't essential, but it can be very useful. The key is to follow insightful people in your industry and engage with them. This is a long-term strategy: it works well, but can take several months.
+Twitter is very useful. The key to getting value from Twitter is to follow insightful people in your industry and engage with them. This is a long-term strategy: it works well, but it can take several months.
 
 **What to do:** Get a Twitter account and start following interesting people. Here's a few people we find interesting that you can start with:
 - [@DavidDuvenaud](https://twitter.com/DavidDuvenaud), creator of neural ODEs
@@ -226,15 +231,15 @@ You can also follow us! [@neutronsNeurons](https://twitter.com/neutronsNeurons) 
 
 **How to do it:**
 
-1. Go to [Twitter](http://twitter.com) and sign up for an account. Skip the step where Twitter suggests people and news organizations to follow. These are usually terrible suggestions.
+1. Go to [Twitter](http://twitter.com) and sign up for an account. Skip the step where Twitter suggests people and news organizations to follow. These are usually bad suggestions.
 
 2. Add a profile picture. Make it the same one you use on LinkedIn.
 
 3. Follow a handful of interesting people in startups and/or machine learning. I recommend starting from the list in **What to do**, above, and letting your interests develop naturally from there.
 
-4. Send out 10-15 tweets (or just retweet things that interesting people have said) so your profile doesn't look empty.
+4. It's a good idea to send out 10-15 tweets (or just retweet things that interesting people have said) so your profile doesn't look empty.
 
-**Why you're doing it:** It might sound strange, but Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
+**Why you're doing it:** Startup Twitter is a place where more interesting ideas are discussed per minute than anywhere else on the Internet. It can also become an incredible source of deep professional connections. Follow enough interesting people, and you'll truly get to know them.
 
 # Job search, part 2: job application strategy
 
@@ -242,221 +247,198 @@ You can also follow us! [@neutronsNeurons](https://twitter.com/neutronsNeurons) 
 
 It depends. Here are the possibilities:
 
-### 1) You live in a major tech hub
+### 1) You live in a tech hub
 
-This is a city with a very high concentration of AI jobs and talent, and where SM has a strong presence in the local community.
+This is a city that has a tech scene and a decent number of AI opportunities, but less than a major hub. We might or might not know people there.
 
-**How to tell if you live in a major tech hub**
+**How to tell if you live in a tech hub**
 
-You're in a major tech hub if you live in one of these 3 areas:
-
-- The Greater Toronto Area :city_sunrise:
-- The San Francisco Bay Area :bridge_at_night:
-- The Greater New York City Area :statue_of_liberty:
-
-or you're close enough to one of them that you're able to spend a couple of evenings a week there.
-
-**What to do if you live in a major tech hub**
-
-- You should be spending about 60% of your search time [in meetups](#how-to-apply-offline), and the rest [doing cold outreach online.](#how-to-apply-online)
-- You should contact a SharpestMinds admin, who may be able to put you in touch with contacts we have in the community.
-- It's very likely, but not guaranteed, that you'll be able to find a job close to where you live.
-
-### 2) You live in a minor tech hub
-
-This is a city that has a vibrant tech scene and a decent number of AI opportunities, but less so than a major hub. SM may or may not have a presence here.
-
-**How to tell if you live in a minor tech hub**
-
-For our purposes, there's a simple way to check:
+Here's how to check:
 
 1. [Search for tech events in your city on Meetup.com.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is correct.
 
 2. Scroll down and look at the titles of the meetups.
 
-3. Do you see at least 3-4 meetups in the next month on the topics of AI, data science, ML, or data engineering? You do? Then you live in a minor tech hub.
+3. Do you see at least 3-4 meetups in the next month on the topics of AI, data science, ML, or data engineering? You do? Then you live in a tech hub.
 
-**What to do if you live in a minor tech hub**
+**What to do if you live in a tech hub**
 
-- You should spend as much of your search time as possible [in meetups](#how-to-apply-offline). Depending one the tech density in your city, this will range from 10% to 50% of your search time.
-- You should spend the rest of your search time [doing cold outreach online.](#how-to-apply-online)
+- You should spend as much of your search time as possible [in meetups](#how-to-apply-offline), up to a maximum of attending 2-3 meetups per week.
+- You should spend the rest of your search time [doing cold email outreach.](#how-to-apply-online)
 - You should contact a SharpestMinds admin. We have contacts in some local meetup communities, so it's worth asking us.
-- You may be able to find a job close to where you live, but you should definitely be open to moving if you get an onsite offer elsewhere.
+- You may be able to find a job close to where you live, but you should be open to moving if you get an onsite offer elsewhere.
 
-### 3) You live somewhere else
+### 2) You don't live in a tech hub
 
-If you live somewhere that isn't either a major or minor tech hub, that means you won't be able to rely on meetups as part of your job search strategy.
+If you live somewhere that isn't a tech hub, then you won't be able to rely on meetups in your job search strategy.
 
 **What to do if you don't live in a tech hub**
 
 - You should spend all of your search time applying online, but not through job boards - [apply the right way.](#how-to-apply-online)
-- You should **not** expect that you'll be able to find a job close to where you live. Be open to moving elsewhere for work.
+- You should **not** expect that you'll be able to find a job close to where you live. Be very open to moving elsewhere for work.
 
 ## How to apply offline
 
-The meetup strategy is the strategy that takes the longest to convert. But minute-for-minute, it's easily the most effective. If you live in a [major](#1-you-live-in-a-major-tech-hub) or [minor](#2-you-live-in-a-minor-tech-hub) tech hub, there's no excuse not to use it.
+The meetup strategy takes time to convert, it's very effective. If you live in a [tech hub](#1-you-live-in-a-tech-hub), you should use it.
 
-👉 **Highly recommended reading for this:** [_How to escape the resume slush pile_](https://datasciencecareermap.com/2019/05/02/how-to-escape-the-resume-slush-pile/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Includes a couple of sections with tips about networking events.
+> 👉 **Highly recommended reading:** [_How to escape the resume slush pile_](https://datasciencecareermap.com/2019/05/02/how-to-escape-the-resume-slush-pile/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Includes a couple of sections with tips about networking events.
 
-**What to do:** Attend as many _high-quality_ data science-related meetups in your area as you can. Even if you have to commute for an hour to get to the meetup, it can be worth it if the meetup is good enough.
+**What to do:** Go to _high-quality_ data science-related meetups in your area. Even if you have to commute for an hour to get to the meetup, it can be worth it, if the meetup is good enough.
 
 High-quality meetups have most of the following properties:
 
-- They're **technically focused.** This ensures that less competent people drop out quickly from boredom. Research paper or project presentations are good. "Introduction to Python for Data Science" is bad.
+- They're **technically focused.** That ensures less competent people will quickly drop out of the meetup from boredom. Research paper or project presentations are good. "Introduction to Python for Data Science" is bad.
 
-- They **recur often.** This lets you get to know the community faster. Every week is great. Every month is fine.
+- They **recur regularly.** This lets you get to know the community faster. Every week is great. Every month is fine.
 
-- They have **medium attendance.** The meetup should be small enough to be intimate, but big enough that you don't run out of people to talk to. 10-60 people attending is ideal. (That's not "10-60 people signed up on meetup.com". It's "10-60 asses in seats at the meetup".)
+- They have **medium attendance.** The meetup should be small enough to be intimate, but big enough that you don't run out of people to talk to. 10-60 people is ideal. (Note: that isn't "10-60 people signed up on meetup.com". It's "10-60 asses in seats".)
 
 **How to do it:**
 
-**First,** you need to figure out what the good meetups are in your area. There are two possibilities:
+**Step 1:** figure out what the good meetups are in your area.
 
-A) **You live in a [major tech hub](#1-you-live-in-a-major-tech-hub):** Contact an admin. We'll send you a list of the meetups you should attend and instructions on how to join them. (Some of the best meetup groups in these cities aren't open to the public.)
+1. [Go to meetup.com and search for tech meetups near your area.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is correct.
 
-B) **You live in a [minor tech hub](#2-you-live-in-a-minor-tech-hub) or [somewhere else](#3-you-live-somewhere-else):**
+2. Start going to meetups. At first, go to as many different data science-related meetups as you can. It's hard to tell which ones are good without going in person. Look especially for technical meetups hosted by growing startups who are trying to build a community around themselves.
 
-1. [Go to meetup.com and search for tech meetups near your area.](https://www.meetup.com/find/events/tech/) Make sure the city in the search bar is right.
+3. After you've been to a few meetups, you'll know which meetups are the lame ones; so stop going to those. If you aren't sure, evaluate the meetups using the criteria in the **What to do** section above.
 
-2. Start going to meetups. Start by casting a wide net: go to as many data science-related meetups as you can. It's very hard to tell which ones are good without going there in person. Look especially for technical meetups hosted by growing startups who want to build a community around themselves.
+  Sometimes, if your city is small, all the meetups in your area might be lame. If that's the case, then unfortunately you won't be able to use this meetup strategy.
 
-3. Stop going to the lame meetups. After you've been to a few, the lame meetups will seem lame; stop going to them. If you aren't sure, evaluate the meetups using the criteria in the **What to do** section above.
-
-  If you're in a small enough city, it's possible that all the meetups in your area will be lame. If so, you won't be able to use the meetup strategy.
-
-**Second,** you need to start networking. Here's how to do that:
+**Step 2:** Start networking:
 
 1. The question you should always be asking yourself at a meetup is this:
 
     **"How can I learn as much as I possibly can about people's problems that I find interesting, and offer as much help as I possibly can to those people in solving their problems?"**
 
-    You can mess up a lot of things, but if you apply this mentality to everyone you talk to, doors will start opening for you. Every step after this is just tactical advice to get you to talk to more people.
+    You can mess up a lot of things, but if you apply that mentality to everyone you talk to, doors will start opening for you. Every step after this is tactical advice to let you talk to more people.
 
-2. Go to your first meetup. If you feel nervous about meeting people, set yourself the goal of "just going".
+2. Go to your first meetup. If you feel nervous at first, set yourself the goal of "just going". You don't need to talk to anyone at first; just build the habit.
 
-3. If you're shy in person, set yourself a goal to intro yourself to at least one attendee. At the next meetup increase this goal to two, then three.
+3. If you're shy, set yourself a goal to introduce yourself to at least one attendee. At the next meetup increase this goal to two, then three.
 
 4. If you go to a meetup and someone presents a technical topic, a great way to start conversations afterwards is to _ask questions_ during the presentation. (Just do it politely, and make sure they're good questions.)
 
 5. Once you've discovered which meetups are good, _keep attending them_. See the **Why you're doing it** section below for why this is important.
 
-6. If you've been doing a project during your mentorship, and if you've been to a meetup a few times, ask the organizer if he'd be interested in having you present your project. **Don't feel shy about doing this!** Most meetup organizers lie awake at night thinking of how to fill their meetups with content. You're giving them what they need.
+6. If you've been doing a project during your mentorship, and if you've been to a meetup a few times, ask the organizer if he'd be interested in having you present your project. **Don't feel shy about doing this!** Most meetup organizers lie awake at night thinking of how to fill their meetups with content. You're helping them with their problem.
 
 7. Remember: _Ask people what their problems are and listen to them when they tell you!_ This is the essence of real networking.
 
-    Nobody cares about your problems. So if you want someone's attention, you need to care about their problems. (Later, once you've become wealthy and/or powerful, you'll suddenly discover that other people have started to care about your problems.)
+    Unfortunately, nobody will care about your problems. So if you want someone's attention, you need to care about _their_ problems first.
+
+    Later, after you've become wealthy and/or powerful, you'll discover that other people have suddenly started to care about your problems.
 
 **Why you're doing it:**
 
-We've studied meetups extensively as a source of job leads. It's important to remember that the value you'll get from attending a meetup series compounds over time. It also compounds over different meetups across the same area, since the same people often go to multiple meetups.
+We've studied meetups a lot. It turns out the value you get from attending meetups compounds over time. It also compounds over different meetups across the same area, since the same people often go to multiple meetups.
 
-Meeting Bob from Google for the first time at Meetup X is fine. Meeting Bob for the sixth time at Meetup X is great. Meeting Bob at Meetup Y after you've already met him at Meetup X is fantastic.
+Meeting Bob from Google for the first time at Meetup X is fine. Meeting Bob from Google for the sixth time at Meetup X is great. Meeting Bob from Google at Meetup Y, after you've already met him at Meetup X, is fantastic.
 
-It will take you time to build up equity and trust in a meetup community. But after you've built up a head of steam it's one of the best possible uses of your time. We recommend prioritizing this for anyone who lives in an AI hub, or even a second tier city that has at least one good meetup series that meets regularly.
+It will take you time to build up trust in a meetup community. But after you've built up a head of steam it's a great use of your time. I recommend prioritizing this for anyone who lives in a tech hub.
 
 ## How to apply online
 
-The right way to apply online is **not** through job boards. The right way to apply online is to cold email specific individual people inside a company. This section will tell you exactly how to do that.
+The right way to apply online is **not** through job boards. The right way to apply online is to cold email specific people people inside a company. This section will tell you exactly how to do that.
 
 **Note: The following advice applies best to companies that are ~500 employees or less. Applying to bigger companies takes a different strategy.**
 
-**What to do:** I'm going to take you through a systematic strategy of email outreach. A few things to note about this before we start:
+**What to do:** I'm going to take you through a systematic strategy of email outreach. Keep in mind:
 
 - You should apply online using cold email, _not_ using a job board
-- If you ignore this advice and apply through a job board anyway, use cold email on a company _first, and only then_ apply to that company through a job board
--  You can expect a response rate of 20-30% on a good cold email
-- You can expect a response rate of 1-2% applying through a job board if you have a good resume
+- If you ignore my advice and apply to a company through a job board anyway, then at least send a cold email to them _first, and only then_ apply to them through the job board
+-  You can expect a response rate of **20-30%** on a good cold email
+- You can expect a response rate of **1-2%** applying through a job board if you have a good resume
 
-**How to do it:** You're going to be running a process. The output of that process will be an email sent to someone in a company that's hiring for ML or data science.
-
-A realistic target if you're actively applying for jobs is ~3 of these emails per day. As you get better at writing them, you'll find it easier to send more.
+**How to do it**
 
 **Step 0: Before you begin**
 
-1. [Download Streak for gmail.](https://www.streak.com) Streak is a free browser extension that lets you see if an email you sent has been opened or not.
+1. [Download Streak for gmail.](https://www.streak.com) Streak is a free browser extension that lets you see if an email you've sent has been opened or not.
 
-2. [Install Sapling.ai.](https://sapling.ai) Sapling is a free browser extension (Chrome only) that is specifically designed to automatically proofread emails for you. It is _very_ effective.
+2. [Install Sapling.ai.](https://sapling.ai) Sapling is a free browser extension (Chrome only) that automatically proofreads your emails for you.
 
-3. [Install Snov.io.](https://snov.io) Snov is a freemium browser extension (Chrome only) that lets you find someone's email if you know their name and their company. You'll probably only need the free version.
+3. [Install Snov.io.](https://snov.io) Snov is a freemium browser extension (Chrome only) that lets you find someone's email if you know 1) their name and 2) their company. You'll probably only need the free version.
 
-**Step 1: Find companies that have roles you're interested in**
+**Step 1: Make a list of companies that have jobs you like**
 
-1. Go on LinkedIn and search for "hiring data". Make sure to filter for `People`. You'll get a hits for people who are hiring data scientists, data engineers, and all kinds of other data roles. (You can search for "hiring machine learning" or "hiring `X`" to get similar results for roles in `X`.)
+1. Go on LinkedIn and search for "hiring data". Make sure to filter for `People`. You'll get a list of hits for people who are hiring data scientists, data engineers, and all kinds of other data roles. (You can search for "hiring machine learning" or "hiring X" to get similar results for roles in X.)
 
-  👉 **Highly recommended reading for this:** [_My favorite job search hack_](https://datasciencecareermap.com/2019/05/04/my-favorite-job-search-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Goes into detail on specific search terms on LinkedIn that Susan has found useful in the past.
+  👉 **Highly recommended reading:** [_My favorite job search hack_](https://datasciencecareermap.com/2019/05/04/my-favorite-job-search-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Goes into detail on specific search terms on LinkedIn that Susan found useful in the past.
 
-  👉 **More highly recommended reading:** [_How to find the best data science jobs: The Insight hack_](https://datasciencecareermap.com/2019/05/28/how-to-find-the-best-data-science-jobs-the-insight-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). This is a strategy for finding really good data science jobs by piggybacking on the Insight Data Science Fellows who've been hired at savvy companies.
+  👉 **More highly recommended reading:** [_How to find the best data science jobs: The Insight hack_](https://datasciencecareermap.com/2019/05/28/how-to-find-the-best-data-science-jobs-the-insight-hack/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). This is a strategy for finding really good data science jobs by piggybacking on Insight Data Science Fellows.
 
-2. You can also look on job boards to find open positions - just don't use job boards to apply. Good job boards you can use to search:
+2. You can also look on job boards to find open positions. Just don't _apply_ anywhere through job boards. Here are some good ones you can use:
 
-    - The big ones: [Indeed](http://indeed.com), [AngelList](https://angel.co) and [Glassdoor](http://glassdoor.com)
+    - [Indeed](http://indeed.com), [AngelList](https://angel.co) and [Glassdoor](http://glassdoor.com)
     - [Remote ML](https://remoteml.com) is a board for remote ML jobs
     - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
     - [Key Values](https://www.keyvalues.com)
-    - [Work At A Startup](http://workatastartup.com)
+    - [Work At A Startup](http://workatastartup.com) by YC
     - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. You can look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring).
 
-3. The best thing to do is to create a spreadsheet to list the companies that are hiring that you want to apply to. Start with ~10 companies on your spreadsheet to get used to the reach-out process. You can add more later on.
+
+3. Create a spreadsheet to list the companies that you want to apply to. Start by putting 10 companies on your spreadsheet to get used to the reach-out process. Then add more as you get comfortable.
 
 **Step 2: Find people in those companies who are hiring:**
 
-The second step is to find people who are actively hiring for their companies. If you did a search for "hiring" in Step 1, those people are good places to start. Otherwise, the best people to start with are below.
+The second step is to find people who are actively hiring for their companies. If you did a search for "hiring" in Step 1, the people who came up in that search are  a good places to start. If not, I've written advice for you below on who you should go after.
 
-👉 **Highly recommended reading for this:** [_How to send a cold email: Find the right contact_](https://datasciencecareermap.com/2019/05/03/how-to-send-a-cold-email-find-the-right-contact/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Full of tips on how to find the right person, and how to get their email address even if you don't know them.
+👉 **Highly recommended reading:** [_How to send a cold email: Find the right contact_](https://datasciencecareermap.com/2019/05/03/how-to-send-a-cold-email-find-the-right-contact/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). Tips on how to find the right person and how to get their email address.
 
-**For companies of ~50 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO, but understand that CEOs are in charge of the hiring objectives for their companies.
+**For companies of ~50 employees or less, the person you should contact is the company's CEO.** It might seem scary to email a CEO. But it's less scary when you realize that the worst thing they do is ignore you.
 
-If you send a CEO an email and you seem like a promising candidate, _you're helping the CEO with one of their key objectives._ You are doing them a favor. (Of course not every CEO will answer you, and don't take it personally if they don't.)
+CEOs are in charge of the overall hiring objectives for their companies. If you send a CEO an email and you seem like a promising candidate, _you're helping the CEO with one of their key objectives._ **You are doing them a favor.** (Of course not every CEO will answer you, and don't take it personally if they don't.)
 
-Most startup CEOs try hard to make themselves accessible over email. A startup CEO's email is usually `{CEO's first name}@{company domain}`. For example, my company email is `edouard[at]sharpestminds[dot]com`. It's easy to guess, because I want interested people to email me.
+For that reason, most startup CEOs try hard to make themselves accessible over email. A startup CEO's email is usually `{CEO's first name}@{company domain}`. For example, my company email is `edouard[at]sharpestminds[dot]com`. It's easy to guess, because I _want_ interested people to email me.
 
-You get two advantages if you email a founder-CEO. First, _it's easy to find something in common with them._ You already know something the founder-CEO is passionate about: their company! They wouldn't have founded their company if they weren't passionate about what it's doing. So if you write an email that shows them you're passionate about their company's mission too, you'll get their attention. For most CEOs, it's hard to find someone who has a sincere interest in what their company is doing - most people just reach out to them with some version of "I want a job".
+You get two advantages if you email a founder-CEO. First, **it's easy to find something in common with them.** You know that the founder-CEO is passionate about their company's mission, because they founded it. So if you write an email that shows them you're also passionate about their company's mission, that will get their attention. For most CEOs, it's hard to find someone sincerely interested in their company's mission. Most people just reach out to them with some version of "I want a job".
 
-The second advantage you get by emailing a CEO is that it's easier for them to make a quick decision about you. If you email the hiring manager, they have 10 seconds to decide if it's worth spending another 30 minutes of their own time talking to you. But if you email the CEO, from the CEO's point of view they can just kick you over to their hiring manager with a recommendation that says "this person seems worth checking out". The CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ talking to. As you can imagine, they're much more likely to say yes.
+The second advantage you get by emailing a CEO is that **it's easy for them to make a quick decision about you.** If you email a hiring manager, they have 10 seconds to decide if it's worth spending another 30 minutes of their own time talking to you. But if you email the CEO, from the CEO's point of view they can kick you over to their hiring manager with a recommendation that says "this person seems worth checking out". The CEO only has to decide if you're worth spending 30 minutes of _their hiring manager's time_ talking to. As you can imagine, they're much more likely to say yes.
 
 And when a hiring manager gets an email from their CEO saying "you should talk to Bob", they are much more likely to talk to Bob.
 
 **For companies of ~50-500 employees, the person you should contact is _either_ the company's VP of Engineering _or_ the company's Director of Data (or a similar title).** Same reasons apply as for the CEO above, except you should keep in mind that no one will be quite as personally invested in the company's mission as the CEO is.
 
-Here's how to find people who are hiring at their companies:
+Here's how to find the right people inside a company:
 
-1. Search for the company name on LinkedIn.
+1. Search for the company's name on LinkedIn.
 
 2. Find the company and click on their company page.
 
-3. In the company page, click on "People".
+3. On the company page, click on "People".
 
-4. Scroll until you find the CEO or VP Engineering. If the company is big, you can also search for "VP" to narrow down the results.
+4. Scroll until you find the CEO, VP Engineering, Director of Data, etc. If the company is big, you can also search for "VP" or "Director" to narrow down the results.
 
 5. Add the person's name and LinkedIn name to your spreadsheet.
 
-**Important:** Whatever you do, **don't** email someone in human resources. [HR staff are not trained to evaluate you based on your technical merits,](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983) and contacting them is almost guaranteed to be a waste of your time. You can tell if someone is in HR if their job title on LinkedIn is something like "Talent Acquisition Partner", "Recruitment Coordinator", "HR Director", "Head of People", or generally any title with the keywords "talent", "recruitment", "people", or "human resources / HR". **Avoid them.**
+**Important:** Whatever you do, **don't email someone in human resources.** [HR staff aren't trained to evaluate you based on your technical merits,](https://towardsdatascience.com/what-no-one-will-tell-you-about-data-science-job-applications-bff2d4b5e983) and contacting them is an almost guaranteed waste of your time. You can tell if someone is in HR if their job title on LinkedIn is something like "Talent Acquisition Partner", "Recruitment Coordinator", "HR Director", "Head of People", or generally any title with the keywords "talent", "recruitment", "people", or "human resources / HR". **Avoid them.**
 
 **Step 3: Research the company**
 
-You're going to be emailing the people you found in **Step 2**. The kinds of people you'll be emailing get lots of email. So we want to make sure your emails stand out compared to all the other emails they receive in a given day.
+You're going to be emailing the people you found in **Step 2**. The kinds of people you'll be emailing get lots of email. So we want to make sure your email stands out compared to all the others they receive in a day.
 
-The recipe for that is, more or less,
+The recipe to do that is
 - Research the company
 - Use their product (if possible)
 - Make your email personable and specific (only possible if you've researched the company)
 - Humbly suggest some ideas
 
-This might seem like a lot of work for a single email. It is. In fact, it's enough work that almost nobody does it. But that's what makes you stand out.
+This might seem like a lot of work for one email. It is. In fact, it's enough work that almost nobody does it. That's why it will make you stand out.
 
-We generally recommend spending 30 minutes to an hour per company on research and writing the email. You might spend more time when you're starting out as you get used to the process.
+We recommend spending 30 minutes to an hour per company on research and writing the email. When you're starting out and still getting used to it, it's okay to spend more time than this.
 
-30 minutes to an hour might seem like a lot. But think about it this way: a good, well researched email will probably get you a response 20-30% of the time. That means even if you put in a full hour on each email, with five hours of email a day you can be receiving 1 positive response _each day_ from _very important people_ in a company.
+That's a lot of time. But a good, well researched email will get you a response 20-30% of the time. That means even if you're putting in a full hour on each email, five hours of work per day will get you one positive response _per day_ from _very important people_ in a company.
 
-If you wanted to get one response per day from job board applications, you'd need to be applying to around _a hundred jobs every day_. Even then the responses you'd be getting would be from recruiters rather than CEOs, and much less likely to convert.
+If you wanted to get one response per day from job board applications, you'd need to be applying to around _a hundred jobs per day_. Even then the responses you'd be getting would be from recruiters rather than hiring managers, so much less valuable to you.
 
-**Note:** If there's a company you _really_ want to work at, it's even okay to do a 1-2 day dive, do a lot of research, and even put together a minor demo for them and link it in your email. That will definitely give you a better conversion rate. But in most cases, we find ~an hour of research is the point of diminishing returns.
+**Note:** If there's a company you _really_ want to work at, it's okay to research them for up to 1-2 days, and even put together a minor demo for them and link to it in your email. That will give you a better conversion rate, but we find an hour of research is usually the point of diminishing returns.
 
 **Step 4: Write the email**
 
 👉 **You must read this first:** [_How to write a cold email_](https://datasciencecareermap.com/2019/05/09/how-to-write-a-cold-email/) by mentor [Susan Holcomb](https://twitter.com/h0lc0mb). This is some of the best advice on the Internet about how to structure a great cold email to land a data science or ML job.
 
-First off, I'll give you a (slightly edited) example of a good email below. This was sent by a mentee to the CEO of a successful YC-backed robotics company. The CEO responded, and the mentee got the interview.
+_Here is a template email you should use if you've been able to research the company you want to work at:_
 
 > Hi Ron,
 
@@ -476,6 +458,8 @@ First off, I'll give you a (slightly edited) example of a good email below. This
 
 > [bobmentee.com](http://example.com)
 
+This was sent by a mentee to the CEO of a successful YC-backed robotics company. The CEO responded, and the mentee got the interview.
+
 A few things to note about this email:
 
 - The mentee highlights the experience he has that's **most relevant** (computer vision, because the company is building autonomous trucks) and **most impressive** (beating state of the art in brainwave and music classification).
@@ -486,39 +470,53 @@ A few things to note about this email:
 - The mentee's personal website is in his email signature. That means he doesn't need to attach his resume to the email he sends. If the CEO is curious, he can just go to the website and find links to everything he needs.
 - Bonus: The mentee used [Streak](http://streak.com) to confirm that the CEO had actually opened his email.
 
-I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he told me:
+The idea behind the ideal email structure is to open with a compliment that shows clearly that you've put work into understanding your target and their company; include an explanation of yourself with links to your work; humbly mention some relevant thing that you've done; and polish it off by including your personal website or LinkedIn in the email signature.
+
+If your target does not have any blog posts or active social media accounts, the fallback is to see if the company itself, or the DS team within the company, has written blog posts about itself.
+
+_If for whatever reason, you aren't able to find anything written by the company you want to work at, you should use [the email template in Susan's blog post.](https://datasciencecareermap.com/2019/05/09/how-to-write-a-cold-email/)_ This will give you a slightly lower response rate than a custom-researched email, but is still **at least 10X** better than applying through a job board.
+
+The team's mission can usually be found by searching through the company's website, or by looking at members of the team on LinkedIn (particularly senior members). Sometimes you can't find it; then, revert to [Susan’s blog post again.](https://datasciencecareermap.com/2019/05/09/how-to-write-a-cold-email/)
+
+You absolutely _do not_ need to read a bunch of books by your target, or every blog post your target has ever written, before you reach out to them. Just look at the titles, find one or two that look interesting to you, and skim them for 10-20 minutes. The sweet spot is to find one non-trivial fact that sincerely interests you.
+
+A final thought: I asked one of our mentors, who works at a $100B+ company in Silicon Valley, how he evaluates these kinds of cold emails himself. Here's what he says:
 
 > For cold emails (and to a little extent the resume profiling as well), there is one key question I would like to answer: Am I speaking to an enthusiast who simply switched to the field because of the hype, or to someone who is genuinely passionate about the craft? For students and junior engineers, I would be interested in knowing their learning path, and if they went a little out of the way to accomplish something (eg: do a course, publish a paper, speak at a conference /meetup etc) — something as proof which can help me validate my guess as to that question.
 
 **Step 5: Send a _polite_ follow up**
 
-If you don't hear back from the person you've emailed within a week, send a polite follow up email. This should be sent as a reply to your first email, to ensure both show up in the same message thread.
+If you don't hear back from the person you've emailed within a week, you should send **one** polite follow up email. This should be sent as a reply to your first email, to ensure both show up in the same message thread.
 
-Here's a good example of one:
+Here's a template you can use for a follow up email:
 
 > Hi Ron,
 
 > I just wanted to quickly follow up with you in case my previous email got buried. Did you have any thoughts or feedback on whether my skills and interests might fit into your team?
 
-> Whatever happens, I wanted you to know that what [your company / group] are working on has been a real source of inspiration for me. If I can be of any help whatsoever going forward, let me know!
+> In case you're too busy to respond, I want you to know in any case that what [your company / group] are working on has been a real source of inspiration for me. If I can be of any help whatsoever going forward, please don't hesitate to reach out to me!
 
 > Bob Mentee
 
 > [bobmentee.com](http://example.com)
 
-Notice that we include a warm compliment in the second paragraph. You should change this compliment to suit your own personality and match your feelings about the company or group. Sincere compliments seem to generate far more responses than generic ones.
+Notice how we include a warm compliment in the second paragraph! **You should change this compliment to suit your own personality and match your feelings about the company or group.** Sincere compliments generate far more responses than generic ones.
 
-If you don't hear back from your follow-up email after one week, you don't need to give up on the company. Just pick someone further down in the company hierarchy, and repeat the process. Obviously you'll have to re-customize the outreach email to this new person.
+If you don't hear back from your follow-up email after one week, you might not have to give up on the company. Try picking someone further down in the company's hierarchy, and repeating the process. Obviously you'll have to re-customize the outreach email to this new person.
 
 For example, you can email the CEO on Week 1, follow up with the CEO on Week 2; email the VP Eng on Week 3, follow up with the VP Eng on Week 4; and email the hiring manager on Week 5, and follow up with the hiring manager on Week 6.
 
-Obviously you should be running this process with _lots_ of companies at the same time, otherwise it would take you forever to get hired at this rate. If you're going full-out on job applications, you should be targeting ~25-30 emails like this each week. You can be allocating 30-45 minutes of research per email. It may take you a couple of weeks to ramp up your email frequency to this level, but it's **very much** worth aiming for.
+Obviously you should be running this process with _lots_ of companies at the same time. Otherwise it will take you forever to get hired. If you're going full-out on job applications, you should be targeting **~25-30 emails like this each week.**
+
+Once you get good, you'll be allocating about 30-60 minutes per email. It may take you a couple of weeks to ramp up to that level, but once you do you've basically won - getting hired is only a matter of time and maintaining your pace.
 
 ## How to use the SharpestMinds network
 
 A few tips on how to leverage SM's network for maximum benefit:
 
-1. If you write a good blog post, let us know and we'll promote it. We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com).
+1. If you write a good blog post let us know, and we'll promote it! We can give you **significant** reach: SharpestMinds content gets **over a quarter of a million** monthly views across all social media platforms, and we have deals with major data science publications like [KDNuggets](https://www.kdnuggets.com) and [Towards Data Science](https://towardsdatascience.com) where we may be able to get your post featured.
+
+    **If English isn't your first language** and you've written a blog post, let us know. We have a deal with [AnnieCannons](https://anniecannons.com) in which they get English graduates to proofread our mentees' blog posts. **This service is 100% free for mentees.**
 
 2. If you plan to reach out to someone by email or via LinkedIn, let us know who it is! We can try to connect with them on LinkedIn so that they see our announcements. This often makes folks more receptive to interviewing SharpestMinds students.
 
