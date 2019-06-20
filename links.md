@@ -17,6 +17,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 
 - Big list of data science cheat sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
 - Deep learning cheat sheet: https://github.com/afshinea/stanford-cs-230-deep-learning
+- Data visualization cheat sheet: https://datavizcatalogue.com
 
 ### Datasets
 
