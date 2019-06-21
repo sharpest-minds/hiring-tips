@@ -440,6 +440,8 @@ If you wanted to get one response per day from job board applications, you'd nee
 
 _Here is a template email you should use if you've been able to research the company you want to work at:_
 
+> SUBJECT: Data Science role at XYZ Robotics
+
 > Hi Ron,
 
 > I've been following XYZ Robotics for a while and I've found your Medium articles very interesting. They provide a clear understanding of how XYZ Robotics is tackling the problems that the autonomous vehicle industry is currently facing. Particularly your explanation for not including LIDAR in your systems is a good reminder that you select the tools based on the problems you are solving and not the other way around.
