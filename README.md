@@ -448,7 +448,7 @@ _Here is a template email you should use if you've been able to research the com
 
 > I'm fascinated by your idea of "one step at a time" problem solving, and I would love to talk about what I can offer to your mission.
 
-> About myself, I'm a Machine Learning Researcher with the experience in signal and image processing. I've been working on the problem of brainwave classification using convolutional neural networks where I achieved a 124% performance improvement over traditional methods. This research has allowed me to keep myself updated on the CNN and computer vision literature. I'm also part of a data science mentorship program in which I've been working on achieving state-of-the-art performance for music genre classification with a Machine Learning Scientist at Amazon.
+> For some context on myself, I'm a Machine Learning Researcher with the experience in signal and image processing. I've been working on the problem of brainwave classification using convolutional neural networks where I achieved a 124% performance improvement over traditional methods. This research has allowed me to keep myself updated on the CNN and computer vision literature. I'm also part of a data science mentorship program in which I've been working on achieving state-of-the-art performance for music genre classification with a Machine Learning Scientist at Amazon.
 
 > I've attached my resume, which provides a more in-depth view of my qualification and experience.
 
