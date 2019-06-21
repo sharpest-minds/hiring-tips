@@ -56,12 +56,14 @@ A checklist of things to do on your first call with a mentee:
  - This will probably evolve a lot in the first couple of weeks as you both get comfortable and settle on a well-defined project.
  - If you haven't decided on a project by the time you've started, **make this the goal of the first week.** Point the mentee towards some resources or possible datasets, or suggest your own project ideas. A dataset shouldn't be pre-cleaned, but ideally should be something the mentee gathers themselves through web scraping or direct collection.
  - [For inspiration, you can check out these example projects from previous SharpestMinds mentorships.](https://github.com/sharpest-minds/hiring-tips/blob/master/projects.md)
+ - [For more inspiration, you can look at SharpestMinds's live internal feed of projects.](https://app.sharpestminds.com/projects)
  - Projects should loosely follow these steps:
- - Data collection:
+ 	- Data collection:
 	- Data analysis/exploration
 	- Feature engineering/selection
 	- Model building
 	- Model deployment
+ - [See here for a great article about how to organize a data science project.](https://hackernoon.com/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
  - *Suggestion*: Set up a GitHub repo, and have your mentee submit PRs for your approval.
  - *Suggestion*: Encourage your mentee to write blog posts about significant milestones.
  - **TODO**: Link to some resources on structuring a data science project 🏗️
