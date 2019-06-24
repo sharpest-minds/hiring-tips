@@ -12,6 +12,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Data pipeline tools: https://data-flair.training/blogs/
 - Training neural networks: https://karpathy.github.io/2019/04/25/recipe/ (⭐️⭐️⭐️⭐️⭐️)
 - Google Cloud Platform (GCP): https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
+- Great visual tutorial on statistics: http://seeing-theory.brown.edu (⭐️⭐️⭐️⭐️⭐️)
 
 ### Cheat sheets
 
