@@ -73,9 +73,11 @@ And here's a list of things you can do to make your resume stronger, with a rati
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🎉
 - Make sure your writing is clear and concise. Use short sentences, with one idea per sentence 🎉
 
-> 👉 **Highly recommended reading for this:** [_Resume mistake bingo_](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e) by [Avishalom Shalit](https://medium.com/@avishalom). A bingo card full of common resume mistakes.
+> 👉 **Highly recommended reading for this:** [_Write a better resume_](https://datasciencecareermap.com/2019/06/25/write-a-better-resume/) by mentor [Susan Holcomb](http://twitter.com/h0lc0mb). An amazing essay on how to do a great job writing your resume.
 
-> 👉 **Also highly recommended:** [_The 4 fastest ways not to get hired as a data scientist_](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e) by [Jeremie Harris](http://twitter.com/jeremiecharris). The four most deadly mistakes you can make on your resume.
+> 👉 **Also recommended reading:** [_Resume mistake bingo_](https://medium.com/@avishalom/resume-mistake-bingo-c08df472976e) by [Avishalom Shalit](https://medium.com/@avishalom). A bingo card full of common resume mistakes.
+
+> 👉 **Also recommended:** [_The 4 fastest ways not to get hired as a data scientist_](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e) by [Jeremie Harris](http://twitter.com/jeremiecharris). The four most deadly mistakes you can make on your resume.
 
 **How to do it:**
 
