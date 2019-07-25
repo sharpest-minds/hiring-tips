@@ -34,6 +34,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 
 ### Application strategy
 
+- This is a great Medium publication, fully devoted to crushing the ML/AI application and interview process: https://medium.com/acing-ai
 - Colorful description of the strategy one person took to find a job in AI: https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc
 - Must-read if you're trying to get a job at a FAANG or similar big company: https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996 (⭐️⭐️⭐️⭐️⭐️)
 
