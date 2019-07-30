@@ -46,6 +46,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Google AI interview questions: https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae
 - How to bomb an interview and still get the job: https://datasciencecareermap.com/2019/06/06/how-to-bomb-an-interview-and-still-get-the-job/  (⭐️⭐️⭐️⭐️⭐️)
 - Massive list of top notch interview questions: https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320 (⭐️⭐️⭐️⭐️⭐️)
+- Not interview questions per se, but an article on topics that very often come up in interviews. Strongly recommended by our mentors: https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19 (⭐️⭐️⭐️⭐️⭐️)
 
 ## Good writing
 
