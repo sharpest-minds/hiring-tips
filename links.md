@@ -15,6 +15,11 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Great visual tutorial on statistics: http://seeing-theory.brown.edu (⭐️⭐️⭐️⭐️⭐️)
 - Excellent conceptual treatment of data science and ML (textbook): http://www-bcf.usc.edu/~gareth/ISL/ (⭐️⭐️⭐️⭐️⭐️)
 - A good resource for learning Python: https://greenteapress.com/wp/think-python/
+- On the NLP side, here are a bunch of great links for multiclass classification with BERT:
+1) https://www.kaggle.com/thebrownviking20/bert-multiclass-classification
+2) https://github.com/karta282950/bert-multiclass
+3) https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d
+4) https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d
 
 ### Cheat sheets
 
