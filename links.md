@@ -52,6 +52,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - How to bomb an interview and still get the job: https://datasciencecareermap.com/2019/06/06/how-to-bomb-an-interview-and-still-get-the-job/  (⭐️⭐️⭐️⭐️⭐️)
 - Massive list of top notch interview questions: https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320 (⭐️⭐️⭐️⭐️⭐️)
 - Not interview questions per se, but an article on topics that very often come up in interviews. Strongly recommended by our mentors: https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19 (⭐️⭐️⭐️⭐️⭐️)
+- Incredibly video explanations of 70 popular interview questions, by a former Google SWE. Highly recommended by our mentees: https://www.algoexpert.io/product (⭐️⭐️⭐️⭐️⭐️) (Not free 💰)
 
 ## Good writing
 
