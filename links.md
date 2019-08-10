@@ -34,6 +34,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - GitHub repo of datasets for NLP: https://github.com/niderhoff/nlp-datasets
 - Google Dataset Search: https://toolbox.google.com/datasetsearch (⭐️⭐️⭐️⭐️⭐️)
 - Tool to quickly label your data: https://labelbox.com (⭐️⭐️⭐️⭐️⭐️)
+- An _amazing_ company that turns any website into an API so you don't need to scrape it (mostly): https://dashblock.com (⭐️⭐️⭐️⭐️⭐️)
 
 ## Applying & interviewing
 
