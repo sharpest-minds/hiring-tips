@@ -37,6 +37,9 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Tool to quickly label your data: https://labelbox.com (⭐️⭐️⭐️⭐️⭐️)
 - An _amazing_ company that turns any website into an API so you don't need to scrape it (mostly): https://dashblock.com (⭐️⭐️⭐️⭐️⭐️)
 
+### Tools
+- Data version control, like git but for datasets and models: https://dvc.org/
+
 ## Applying & interviewing
 
 ### Application strategy
