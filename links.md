@@ -39,6 +39,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 
 ### Tools
 - Data version control, like git but for datasets and models: https://dvc.org/
+- Build autoscaling AWS infrastructure with visual diagrams: https://cloudcraft.co
 
 ## Applying & interviewing
 
