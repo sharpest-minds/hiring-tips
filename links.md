@@ -27,6 +27,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Deep learning cheat sheet: https://github.com/afshinea/stanford-cs-230-deep-learning
 - Data visualization cheat sheet: https://datavizcatalogue.com
 - Not exactly a cheat sheet, but a lot of mentees strongly recommend Anki for helping them remember important concepts: https://apps.ankiweb.net
+- Mentor [Ray Phan](https://www.linkedin.com/in/rayryeng/) kindly created these flash cards for machine learning interview prep: https://drive.google.com/file/d/12PImST4J6gJr9cjx-P2QPze7dgD3OCR_/view?usp=sharing
 
 ### Datasets
 
