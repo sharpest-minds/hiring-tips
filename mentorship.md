@@ -14,6 +14,7 @@ When you interview a mentee applicant, it helps to set expectations. Here's an e
 Here are some good general questions to ask a mentee applicant:
 
  - What's your schedule like and how much time can you commit?
+ - How committed would you say you are to ultimately getting a job in ML or data science?
  - What's your educational background? Which MOOCs have you completed?
  - Have you done any other data science projects? Can you walk me through one?
  - Do you know SQL?
