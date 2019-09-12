@@ -30,7 +30,7 @@ Here are some good general questions to ask a mentee applicant:
 
 **NOTE:** At this stage, a mentee most likely doesn't know what a good project idea looks like. That's all right: they aren't in the industry yet, and you have veto power over any project they propose.
 
-You don't need to have decided on a project by the time you've started the mentorship, but if not, **you should make this the goal of your first week.**
+You don't need to have decided on a project by the time you've started the mentorship, but if not, **you should make this a goal to achieve by the end of week 3 at the latest.**
 
 ## On your first call
 
@@ -55,7 +55,7 @@ A checklist of things to do on your first call with a mentee:
 
 4. **Create a rough plan with a timeline:**
  - This will probably evolve a lot in the first couple of weeks as you both get comfortable and settle on a well-defined project.
- - If you haven't decided on a project by the time you've started, **make this the goal of the first week.** Point the mentee towards some resources or possible datasets, or suggest your own project ideas. A dataset shouldn't be pre-cleaned, but ideally should be something the mentee gathers themselves through web scraping or direct collection.
+ - If you haven't decided on a project by the time you've started, **make this a goal by week 3 at the latest.** Point the mentee towards some resources or possible datasets, or suggest your own project ideas. A dataset shouldn't be pre-cleaned, but ideally should be something the mentee gathers themselves through web scraping or direct collection.
  - [For inspiration, you can check out these example projects from previous SharpestMinds mentorships.](https://github.com/sharpest-minds/hiring-tips/blob/master/projects.md)
  - [For more inspiration, you can look at SharpestMinds's live internal feed of projects.](https://app.sharpestminds.com/projects)
  - Projects should loosely follow these steps:
