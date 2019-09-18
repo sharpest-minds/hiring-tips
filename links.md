@@ -21,6 +21,15 @@ A list of links we find useful, divided up by categories. If you want to suggest
 3) https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d
 4) https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d
 
+#### GANs
+
+The original GAN tutorial by Ian Goodfellow is a great one for an intro: https://www.youtube.com/watch?v=HGYYEUSm-0Q
+
+#### Reinforcement learning
+
+The tutorials by Thomas Simonini are very good and free: https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
+The RL book by Richard Sutton is a most definite read if you want to be serious in study: http://incompleteideas.net/book/RLbook2018.pdf
+
 ### Cheat sheets
 
 - Big list of data science cheat sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
