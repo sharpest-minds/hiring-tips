@@ -13,6 +13,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Training neural networks: https://karpathy.github.io/2019/04/25/recipe/ (⭐️⭐️⭐️⭐️⭐️)
 - Google Cloud Platform (GCP): https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
 - Great visual tutorial on statistics: http://seeing-theory.brown.edu (⭐️⭐️⭐️⭐️⭐️)
+- Highly recommended set of math and stats videos, which make great interview prep: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
 - Excellent conceptual treatment of data science and ML (textbook): http://www-bcf.usc.edu/~gareth/ISL/ (⭐️⭐️⭐️⭐️⭐️)
 - A good resource for learning Python: https://greenteapress.com/wp/think-python/
 - On the NLP side, here are a bunch of great links for multiclass classification with BERT:
