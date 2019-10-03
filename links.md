@@ -8,7 +8,6 @@ A list of links we find useful, divided up by categories. If you want to suggest
 
 - Proper folder structure for a data science project: https://drivendata.github.io/cookiecutter-data-science/ (⭐️⭐️⭐️⭐️⭐️)
 - Web scraping: https://automatetheboringstuff.com/chapter11/ (⭐️⭐️⭐️⭐️⭐️)
-- SQL: https://sqlzoo.net
 - Data pipeline tools: https://data-flair.training/blogs/
 - Training neural networks: https://karpathy.github.io/2019/04/25/recipe/ (⭐️⭐️⭐️⭐️⭐️)
 - Google Cloud Platform (GCP): https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
@@ -21,6 +20,13 @@ A list of links we find useful, divided up by categories. If you want to suggest
 2) https://github.com/karta282950/bert-multiclass
 3) https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d
 4) https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d
+
+#### SQL
+
+- https://sqlzoo.net
+- https://mode.com/sql-tutorial/
+- https://www.codewars.com/?language=sql
+- https://confident-goldberg-55d959.netlify.com/
 
 #### GANs
 
