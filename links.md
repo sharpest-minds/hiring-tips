@@ -15,6 +15,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Highly recommended set of math and stats videos, which make great interview prep: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
 - Excellent conceptual treatment of data science and ML (textbook): http://www-bcf.usc.edu/~gareth/ISL/ (⭐️⭐️⭐️⭐️⭐️)
 - A good resource for learning Python: https://greenteapress.com/wp/think-python/
+- Online data science Masters' (free): https://github.com/datasciencemasters/go
 - On the NLP side, here are a bunch of great links for multiclass classification with BERT:
 1) https://www.kaggle.com/thebrownviking20/bert-multiclass-classification
 2) https://github.com/karta282950/bert-multiclass
