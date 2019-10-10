@@ -16,6 +16,7 @@ A list of links we find useful, divided up by categories. If you want to suggest
 - Excellent conceptual treatment of data science and ML (textbook): http://www-bcf.usc.edu/~gareth/ISL/ (⭐️⭐️⭐️⭐️⭐️)
 - A good resource for learning Python: https://greenteapress.com/wp/think-python/
 - Online data science Masters' (free): https://github.com/datasciencemasters/go
+- Jupyter notebooks for everything: https://github.com/donnemartin/data-science-ipython-notebooks
 - On the NLP side, here are a bunch of great links for multiclass classification with BERT:
 1) https://www.kaggle.com/thebrownviking20/bert-multiclass-classification
 2) https://github.com/karta282950/bert-multiclass
