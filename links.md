@@ -23,6 +23,10 @@ A list of links we find useful, divided up by categories. If you want to suggest
 3) https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d
 4) https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d
 
+#### NLP
+- Speech and NLP textbook from Stanford: https://web.stanford.edu/~jurafsky/slp3/
+- PDF of NLP course notes: https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
 #### SQL
 
 - https://sqlzoo.net
