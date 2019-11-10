@@ -51,6 +51,7 @@ The RL book by Richard Sutton is a most definite read if you want to be serious 
 - Not exactly a cheat sheet, but a lot of mentees strongly recommend Anki for helping them remember important concepts: https://apps.ankiweb.net
 - Mentor [Ray Phan](https://www.linkedin.com/in/rayryeng/) kindly created these flash cards for machine learning interview prep: https://drive.google.com/file/d/12PImST4J6gJr9cjx-P2QPze7dgD3OCR_/view?usp=sharing
 - Another good set of ML flash cards: https://drive.google.com/file/d/1aRHhw-uOj5CDFVsHlG4lEBQd6X2yUe7g/view?usp=sharing
+- An awesome pre-interview cheat sheet: https://www.reddit.com/r/MachineLearning/comments/dslaud/d_list_of_dl_topics_with_resources_for_a_quick/?utm_medium=android_app&utm_source=share
 
 ### Datasets
 
